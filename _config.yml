@@ -6,9 +6,7 @@ url: "https://fraulyoner.github.io"
 theme_settings:
   # Meta
   title: meinimalismus
-  avatar: # not used
   favicon: assets/favicon.ico #TODO
-  gravatar: # Email MD5 hash
   description: "Blog von fraulyoner" # used by search engines
 
   # Header and footer text
@@ -20,30 +18,16 @@ theme_settings:
   # Icons
   rss: true
   email_address: aljona.buchloh@gmail.com
-  behance:
-  bitbucket:
-  dribbble:
   facebook:
-  flickr:
-  gitlab:
   github:
-  google_plus:
   instagram: "fraulyoner"
-  linkedin:  # Full URL
   pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
   twitter: "fraulyoner"
-  wordpress:
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: false # Enable if using math markup
   search: false # Enable the search feature
 
   # Localization strings
