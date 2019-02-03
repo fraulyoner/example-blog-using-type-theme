@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/example-blog-using-type-theme"
 url: "https://fraulyoner.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
