@@ -1,0 +1,17 @@
+#tags {
+  width:100%;
+  border-bottom: 1px solid $border-color;
+  float: left;
+  text-align: center;
+  @extend %padding-small;
+
+  p {
+    @extend .meta;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
