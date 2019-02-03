@@ -17,20 +17,24 @@
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
 	<!-- Font Awesome -->
+	<!-- TODO: Replace CDN by local dependency -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- Google Fonts -->
+	<!-- TODO: Replace Google Fonts by local dependency -->
 	{% if site.theme_settings.google_fonts %}
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
 	<!-- KaTeX -->
+	<!-- TODO: Remove this? -->
 	{% if site.theme_settings.katex and page.id %}
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css" integrity="sha384-BTL0nVi8DnMrNdMQZG1Ww6yasK9ZGnUxL1ZWukXQ7fygA1py52yPp9W4wrR00VML" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.js" integrity="sha384-y6SGsNt7yZECc4Pf86XmQhC4hG2wxL6Upkt9N1efhFxfh6wlxBH0mJiTE8XYclC1" crossorigin="anonymous"></script>
 	{% endif %}
 
 	<!-- Google Analytics -->
+	<!-- TODO: Remove this? -->
 	{% if site.theme_settings.google_analytics %}
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
