@@ -1,50 +1,67 @@
 .site-header {
-  @extend %padding-small;
-  background: $brand-color;
-  border-bottom: 1px solid $border-color;
-  display: inline-block;
-  float: left;
-  width: 100%;
+
+  .site-logo, .site-nav {
+    @extend %padding-small;
+    border-bottom: 1px solid $border-color;
+    display: inline-block;
+    float: left;
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    img {
+      width: 150px;
+      height: 150px;
+    }
+  }
 
   a {
     color: $header-link-color;
   }
 
-  .avatar {
-    height: 2em;
-    width: 2em;
-    float: left;
-    margin-top: -3px;
-    border-radius: 0.2em;
-    margin-right: 1em;
-  }
-
   .site-title {
-    //float: left;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.25em;
     line-height: 1.5;
+    text-align: center;
   }
 
   .site-nav {
+    @extend %padding-small;
+    width: 100%;
+
     ul {
       margin: 0;
       padding: 0;
       list-style: none;
       line-height: 1.5;
-      float: left;
-      text-align: right;
+
+      li {
+        display: inline;
+        float: left;
+      }
+
+      &.site-nav-left {
+        float: left;
+        li:not(:last-child):after {
+          content: "|";
+          padding-left: 0.4em;
+          padding-right: 0.4em;
+        }
+      }
+
+      &.site-nav-right {
+        float: right;
+        li {
+          margin-right: 0.4em;
+        }
+      }
     }
 
-    ul.site-nav-right {
-      float: right;
-    }
-
-    li {
-      display: inline;
-      float: left;
-      margin-right: 0.4em;
-    }
     @media (max-width: 1100px) {
       ul {
         display: inline-block;
