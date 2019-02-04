@@ -14,44 +14,23 @@
 	<nav class="site-nav">
 		<ul class="site-nav-left">
 			<li>
-				<a class="page-link" href="#">
+				<a class="page-link" href="{{ site.baseurl }}/">
 					Start
 				</a>
 			</li>
-			<li>
-				<a class="page-link" href="#">
-					Ordnung im Haus
-				</a>
-			</li>
-			<li>
-				<a class="page-link" href="#">
-					Fokus im Kopf
-				</a>
-			</li>
-			<li>
-				<a class="page-link" href="#">
-					Konsum mit Hirn
-				</a>
-			</li>
-			<li>
-				<a class="page-link" href="#">
-					About
-				</a>
-			</li>
-			<li>
-				<a class="page-link" href="#">
-					Impressum
-				</a>
-			</li>
-			<!--{% for page in site.pages %}
+			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
 			<li>
 				<a class="page-link" href="{{ page.url | relative_url }}">
+					{% if page.nav %}
+					{{ page.nav }}
+					{% else %}
 					{{ page.title }}
+					{% endif %}
 				</a>
 			</li>
 			{% endif %}
-			{% endfor %}-->
+			{% endfor %}
 		</ul>
 		<ul class="site-nav-right">
 			<!-- Social icons from Font Awesome, if enabled  -->
