@@ -4,8 +4,6 @@ title: Hi, ich bin Frau Lyoner!
 nav: About
 ---
 
-![Hallo, ich bin Frau Lyoner!]({{ site.baseurl}}/assets/img/avatar.jpg){:class="avatar"}
-
 Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de). Ich habe
 diesen Blog ins Leben gerufen, um über meinen ganz persönlichen Weg zu einem
 minimalistischen Leben, kurz Meinimalismus, zu schreiben.
