@@ -6,10 +6,26 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.twitter %}
+<li>
+	<a href="https://twitter.com/{{ site.theme_settings.twitter }}" title="{{ site.theme_settings.str_follow_on }} Twitter">
+		<i class="fa fa-fw fa-twitter"></i>
+	</a>
+</li>
+{% endif %}
+
+{% if site.theme_settings.instagram %}
+<li>
+	<a href="https://instagram.com/{{ site.theme_settings.instagram }}" title="{{ site.theme_settings.str_follow_on }} Instagram">
+		<i class="fa fa-fw fa-instagram"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.email_address %}
 <li>
 	<a href="mailto:{{ site.theme_settings.email_address }}" title="{{ site.theme_settings.str_email }}">
-		<i class="fa fa-fw fa-envelope-o"></i>
+		<i class="fa fa-fw fa-envelope"></i>
 	</a>
 </li>
 {% endif %}
@@ -30,26 +46,10 @@
 </li>
 {% endif %}
 
-{% if site.theme_settings.instagram %}
-<li>
-	<a href="http://instagram.com/{{ site.theme_settings.instagram }}" title="{{ site.theme_settings.str_follow_on }} Instagram">
-		<i class="fa fa-fw fa-instagram"></i>
-	</a>
-</li>
-{% endif %}
-
 {% if site.theme_settings.pinterest %}
 <li>
 	<a href="http://www.pinterest.com/{{ site.theme_settings.pinterest }}" title="{{ site.theme_settings.str_follow_on }} Pinterest">
 		<i class="fa fa-fw fa-pinterest"></i>
-	</a>
-</li>
-{% endif %}
-
-{% if site.theme_settings.twitter %}
-<li>
-	<a href="https://twitter.com/{{ site.theme_settings.twitter }}" title="{{ site.theme_settings.str_follow_on }} Twitter">
-		<i class="fa fa-fw fa-twitter"></i>
 	</a>
 </li>
 {% endif %}
