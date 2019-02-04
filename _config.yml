@@ -5,7 +5,7 @@ url: "https://fraulyoner.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Meinimalismus
+  title: meinimalismus
   favicon: assets/favicon.ico
   description: "Blog von fraulyoner" #TODO, used by search engines
 
