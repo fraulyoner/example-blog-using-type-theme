@@ -3,6 +3,7 @@
   <div id="previous-post" class="post-nav-post">
       <p>{{ site.theme_settings.str_previous_post }}</p>
       <a href="{{ site.baseurl }}{{ page.previous.url }}">
+        <i class="fa fw fa-angle-left"></i>
         {{ page.previous.title }}
       </a>
   </div>
@@ -12,6 +13,7 @@
       <p>{{ site.theme_settings.str_next_post }}</p>
       <a href="{{ site.baseurl }}{{ page.next.url }}">
         {{ page.next.title }}
+        <i class="fa fw fa-angle-right"></i>
       </a>
   </div>
   {% endif %}
