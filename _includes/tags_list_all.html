@@ -2,7 +2,7 @@
 {% assign tag_words = site_tags | split:',' | sort %}
 
 {% if site_tags.size > 0 %}
-<div id="tags">
+<div class="site-tags">
   <p>Kategorien</p>
   <ul>
   {% for item in (0..site.tags.size) %}
