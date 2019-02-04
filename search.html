@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Search
-hide: true
+title: Suche
 ---
+
+<!-- Search bar if enabled  -->
+{% include search.html %}
 
 <div class="search">
     <div id="search-results"></div>
@@ -29,5 +31,6 @@ hide: true
   };
 </script>
 
+<!-- TODO: Replace CDN by local dependency -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/0.7.1/lunr.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/search.js"></script>

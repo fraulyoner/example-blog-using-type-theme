@@ -2,6 +2,7 @@
 form.search {
     border: 0;
     border-bottom: 2px solid $search-color;
+    display: inline;
     outline: 0;
 
     *:focus {
