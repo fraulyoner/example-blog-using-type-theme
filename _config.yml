@@ -13,7 +13,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with customised <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   &copy; Aljona Buchloh 2019 &ndash; Powered by <a href="https://jekyllrb.com/">Jekyll</a> with customised <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: true
