@@ -21,7 +21,7 @@ Gefühle bei dir selbst zu mindern.
 
 Wer im [agilen](https://de.wikipedia.org/wiki/Agile_Softwareentwicklung)
 Umfeld arbeitet, was v. a. in der IT-Branche häufig der Fall ist, wird
-die von Norman Kerth geprägte [Prime Directive](http://retrospectivewiki.org/index.php?title=The_Prime_Directive)
+die von Norman Kerth geprägte [Prime Directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive)
 sicherlich kennen. Sie wird gerne als Basis genommen, um Probleme bei
 der täglichen Arbeit lösungsorientiert besprechen zu können, statt eine
 Hexenjagd zu entfachen.
