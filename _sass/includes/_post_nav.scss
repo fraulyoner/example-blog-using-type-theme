@@ -17,16 +17,4 @@
   .post-nav-post + .post-nav-post {
     margin-top: 1em;
   }
-
-  @media (min-width: 1000px) {
-    .post-nav-post + .post-nav-post {
-      margin-top: 0;
-    }
-    #previous-post {
-      float: left;
-    }
-    #next-post {
-      float: right;
-    }
-  }
 }
