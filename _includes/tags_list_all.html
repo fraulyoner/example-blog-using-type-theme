@@ -9,7 +9,7 @@
     {% unless forloop.last %}
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
       <li>
-        <a class="tag" href="{{site.baseurl}}/tags#{{ this_word | cgi_escape }}">#{{ this_word }}</a>
+        <a class="tag" href="{{site.baseurl}}/tags#{{ this_word | cgi_escape }}">{{ this_word }}</a>
       </li>
     {% endunless %}
   {% endfor %}
