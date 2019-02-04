@@ -1,7 +1,5 @@
 .icons {
-  width:100%;
-  border-bottom: 1px solid $border-color;
-  float: left;
+  @extend %site-el;
   @extend %padding-regular;
 
   p {
@@ -16,7 +14,6 @@
 
   li {
     display: inline-block;
-    //float: left;
     margin-right: 0.4em;
     a {
       color: $header-link-color;

@@ -1,9 +1,7 @@
 .site-description {
-  width: 100%;
-  border-bottom: 1px solid $border-color;
-  float: left;
-  text-align: center;
+  @extend %site-el;
   @extend %padding-regular;
+  text-align: center;
 
   > p {
     margin: 0;

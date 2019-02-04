@@ -1,11 +1,9 @@
 .site-header {
 
   .site-logo, .site-nav {
+    @extend %site-el;
     @extend %padding-small;
-    border-bottom: 1px solid $border-color;
     display: inline-block;
-    float: left;
-    width: 100%;
   }
 
   .logo {

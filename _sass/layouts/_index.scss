@@ -33,16 +33,24 @@
   }
 }
 // Pagination
-.pagination .button {
-  margin: 0 1.5em;
-  i {
-    vertical-align: middle;
-  }
-}
 .pagination {
-  padding: $padding-small $padding-large 0 $padding-large;
-  text-align: center;
-  @media (max-width: 600px) {
-    padding: $padding-small;
+  @extend %site-el;
+  @extend %padding-regular;
+
+  a {
+    display: inline-block;
+    padding: 0;
+  }
+
+  a.pagination-newer {
+    float: left;
+  }
+
+  a.pagination-older {
+    float: right;
+  }
+
+  i {
+    vertical-align: 0.015em;
   }
 }

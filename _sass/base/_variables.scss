@@ -18,7 +18,9 @@ $nice-color: #1ABC9C;
 
 // Typography colours
 $text-color: #383838;
+$text-color-light: lighten($text-color, 30%);
 $link-color: #A63F4B;
+$link-color-hover: darken($link-color, 6%);
 $selection-color: #D4D4D4; // visible when highlighting text
 
 // Tags color
