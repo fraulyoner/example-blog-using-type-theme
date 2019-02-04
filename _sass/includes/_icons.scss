@@ -1,0 +1,26 @@
+.icons {
+  width:100%;
+  border-bottom: 1px solid $border-color;
+  float: left;
+  @extend %padding-regular;
+
+  p {
+    @extend .meta;
+  }
+
+  ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.5;
+
+  li {
+    display: inline-block;
+    //float: left;
+    margin-right: 0.4em;
+    a {
+      color: $header-link-color;
+    }
+  }
+  }
+}
