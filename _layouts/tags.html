@@ -12,6 +12,7 @@ layout: page
     <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
       {{ this_word }}
     </h2>
+    <img class="tag-img" src="{{ site.baseurl}}/assets/img/tags/{{ this_word }}.jpg" alt="{{ this_word }}"></img>
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.tags[this_word] %}
       {% if post.title != null %}
