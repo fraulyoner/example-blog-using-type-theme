@@ -9,11 +9,9 @@ theme_settings:
   favicon: assets/favicon.ico
   description: "Blog von fraulyoner" #TODO, used by search engines
 
-  # Header and footer text
+  # Header text
   header_text:
-  header_text_feature_image:
-  footer_text: >
-   &copy; Aljona Buchloh 2019 &ndash; Powered by <a href="https://jekyllrb.com/">Jekyll</a> with customised <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  header_text_feature_image: #"assets/img/xy.jpg"
 
   # Icons
   rss: true
