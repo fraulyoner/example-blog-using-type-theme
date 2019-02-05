@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Wieso negative Gefühle gut für dich sind
+categories:
+- Perspektive
 tags:
-- Perspektivenwechsel
+- Perspektive
+- Achtsamkeit
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.* - Ist dir dieser Satz auch

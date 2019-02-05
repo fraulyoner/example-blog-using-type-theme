@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Wie die Zeit verfliegt - Neujahrsgrüße von Frau Lyoner
+categories:
+- Perspektive
 tags:
-- Perspektivenwechsel
+- Achtsamkeit
 ---
 
 Kaum zu glauben, schon wieder ein Jahr rum. Das Jahr 2019 steht

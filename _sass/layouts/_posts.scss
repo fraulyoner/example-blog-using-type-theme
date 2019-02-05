@@ -37,6 +37,12 @@ header {
   margin: 0;
   text-transform: uppercase;
 }
+
+.post-teaser .meta,
+.content .meta {
+  text-transform: capitalize;
+}
+
 .feature-image {
   padding: 0%;
   .post-link {

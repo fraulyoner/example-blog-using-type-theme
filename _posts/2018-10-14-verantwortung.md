@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
+categories:
+- Perspektive
 tags:
-- Perspektivenwechsel
+- Perspektive
+- Gedankenmuster
 ---
 
 Beklage dich möglichst oft darüber, wie schwer du es im Leben hast und welchem

@@ -3,16 +3,12 @@
 
 {% if site_tags.size > 0 %}
 <div class="site-tags">
-  <p>Themen</p>
-  <ul>
+  <p>Tags</p>
   {% for item in (0..site.tags.size) %}
     {% unless forloop.last %}
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-      <li>
-        <a class="tag" href="{{site.baseurl}}/tags#{{ this_word | cgi_escape }}">{{ this_word }}</a>
-      </li>
+        <span class="tag"><a href="{{site.baseurl}}/tags#{{ this_word | cgi_escape }}">{{ this_word }}</a></span>
     {% endunless %}
   {% endfor %}
-  </ul>
 </div>
 {% endif %}

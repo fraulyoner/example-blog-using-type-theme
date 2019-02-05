@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Wie du mit Chaoszonen mehr Ordnung in dein Zuhause bringst
+categories:
+- Ordnung
 tags:
 - Aufräumen
+- Routinen
 ---
 Es kann nicht immer tippitoppi aussehen. So ist eben das Leben.
 Auch wenn ich im länger zurückliegenden

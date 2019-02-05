@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Gibt es etwas, worauf ich verzichte?
+categories:
+- Nachhaltigkeit
 tags:
-- Perspektivenwechsel
+- Verzicht
+- Minimalismus
 - Nachhaltigkeit
 ---
 

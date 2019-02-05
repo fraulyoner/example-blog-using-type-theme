@@ -1,6 +1,9 @@
 .tags {
   .tag {
-    margin-left: 0.5em;
-    color: $tags-color;
+    &:before {
+      content: "|";
+      padding-left: 0.25em;
+      padding-right: 0.25em;
+    }
   }
 }

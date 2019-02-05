@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+<p>
+  Möchtest du dauerhaft Ordnung in dein Leben bringen?
+  Willst du dich auf das Wesentliche fokussieren und mehr Achtsamkeit in
+  deinem Leben etablieren? Machst du dir Gedanken um deinen Konsum?
+</p>
+
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <h2 id="{{ category_name | slugize }}" class="tag-title">
+      {{ category_name }}
+    </h2>
+    <img class="tag-img" src="{{ site.baseurl }}/assets/img/categories/{{ category_name }}.jpg" alt="{{ category_name }}"></img>
+    {% for post in site.categories[category_name] %}
+    <div class="tagged-post">
+      <h3 class="title">
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h3>
+      <div class="meta">
+        {% include date.html postDate=post.date %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+{% endfor %}

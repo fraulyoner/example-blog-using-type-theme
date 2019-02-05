@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
+categories:
+- Perspektive
 tags:
-- Perspektivenwechsel
+- Gedankenmuster
+- Perspektive
 ---
 
 *Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von
