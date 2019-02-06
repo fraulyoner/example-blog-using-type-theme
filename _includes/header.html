@@ -15,12 +15,27 @@
 		<ul class="site-nav-left">
 			<li>
 				<a class="page-link" href="{{ site.baseurl }}/">
-					Posts
+					Start
+				</a>
+			</li>
+			<li>
+				<a class="page-link" href="{{ site.baseurl }}/categories.html">
+					Themen
+				</a>
+			</li>
+			<li>
+				<a class="page-link" href="{{ site.baseurl }}/about.html">
+					About
+				</a>
+			</li>
+			<li>
+				<a class="page-link" href="{{ site.baseurl }}/search.html">
+					Suche
 				</a>
 			</li>
 			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
-			<li>
+			<!--<li>
 				<a class="page-link" href="{{ page.url | relative_url }}">
 					{% if page.nav %}
 					{{ page.nav }}
@@ -30,7 +45,7 @@
 				</a>
 			</li>
 			{% endif %}
-			{% endfor %}
+			{% endfor %}-->
 		</ul>
 		<ul class="site-nav-right">
 			{% include icons.html %}
