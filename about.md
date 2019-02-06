@@ -8,6 +8,8 @@ Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de). Ich 
 diesen Blog ins Leben gerufen, um über meinen ganz persönlichen Weg zu einem
 minimalistischen Leben, kurz Meinimalismus, zu schreiben.
 
+![Frau Lyoner]({{ site.baseurl}}/assets/img/fraulyoner.jpg)
+
 Ich strebe weder ein völlig spartanisches Leben an, noch möchte ich mir ein
 bestimmtes Limit von Besitztümern setzen. Mein Ziel ist es, Dinge aus meinem
 Leben fernzuhalten, die ich nicht brauche und/oder nicht mag. Ich möchte mich
