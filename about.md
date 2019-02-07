@@ -26,9 +26,3 @@ Hund. In diesem Blog berichte ich von meinen Strategien und Erfahrungen im Kampf
 gegen Gedankenchaos und Unordnung.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
-
-## Kontakt
-
-Du hast Anregungen oder Fragen und willst in Kontakt mit mir treten?
-Dann schreib mir doch einfach eine E-Mail:
-[{{ site.theme_settings.email_address }}](mailto:{{ site.theme_settings.email_address }})

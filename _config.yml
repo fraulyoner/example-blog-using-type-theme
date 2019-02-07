@@ -31,7 +31,7 @@ theme_settings:
   # Localization strings
   str_follow_on: "Folge mir auf"
   str_rss_follow: "RSS Feed"
-  str_email: "E-Mail"
+  str_email: "Kontakt aufnehmen"
   str_next_post: "Nächster Post"
   str_previous_post: "Vorheriger Post"
   str_next_page: "Ältere Posts"
