@@ -1,3 +1,7 @@
-# Type Theme
+# meinimalismus.de
 
-An example [Jekyll](https://jekyllrb.com) Blog using the [Type Theme](https://rohanchandra.github.io/type-theme/)
+Work in progress...
+
+Reconstructing my blog [meinimalismus.de](https://meinimalismus.de) to a
+[Jekyll](https://jekyllrb.com) Blog using the great
+[Type Theme](https://rohanchandra.github.io/type-theme/).
