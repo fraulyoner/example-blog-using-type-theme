@@ -3,6 +3,9 @@
 	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% if page.robots %}
+	<meta name="robots" content="{{page.robots}}" />
+	{% endif %}
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
@@ -19,7 +22,7 @@
 	<!-- Font Awesome -->
 	<link href="{{ site.baseurl }}/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-	<!-- Google Fonts -->
+	<!-- Fonts -->
 	{% if site.theme_settings.google_fonts %}
 	<link href="{{ "/assets/css/fonts.css" | relative_url }}" rel="stylesheet" type="text/css">
 	{% endif %}

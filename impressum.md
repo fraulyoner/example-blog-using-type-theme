@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+robots: noindex,follow,noarchive
 ---
 
 ## Angaben gemäß § 5 TMG
@@ -10,7 +11,7 @@ Uhlandstr. 39\\
 76135 Karlsruhe
 
 ### Kontakt
-E-Mail: aljona.buchloh@gmail.com
+E-Mail: [{{ site.theme_settings.email_address }}](mailto:{{ site.theme_settings.email_address }})
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
@@ -60,20 +61,3 @@ Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
 Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden
 Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte
 umgehend entfernen.
-
-### Datenschutz
-
-Die Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener
-Daten möglich. Soweit auf diesen Seiten personenbezogene Daten (beispielsweise
-Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit
-möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre
-ausdrückliche Zustimmung nicht an Dritte weitergegeben. Ich weise darauf hin,
-dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
-Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem
-Zugriff durch Dritte ist nicht möglich.
-
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten
-durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und
-Informationsmaterialien wird hiermit ausdrücklich widersprochen. Der
-Seitenbetreiber behält sich ausdrücklich rechtliche Schritte im Falle der
-unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
