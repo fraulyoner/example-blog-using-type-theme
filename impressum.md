@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+sitemap: false
 robots: noindex,follow,noarchive
 ---
 

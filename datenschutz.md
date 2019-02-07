@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Datenschutz
+sitemap: false
 robots: noindex,follow,noarchive
 ---
 
