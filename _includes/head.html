@@ -20,9 +20,8 @@
 	<link href="{{ site.baseurl }}/lib/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- Google Fonts -->
-	<!-- TODO: Replace Google Fonts by local dependency -->
 	{% if site.theme_settings.google_fonts %}
-	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
+	<link href="{{ "/assets/css/fonts.css" | relative_url }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
 	<!-- Google Analytics -->
