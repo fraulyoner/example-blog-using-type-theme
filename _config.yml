@@ -7,7 +7,8 @@ theme_settings:
   # Meta
   title: meinimalismus
   favicon: assets/favicon.ico
-  description: "Blog von fraulyoner" #TODO, used by search engines
+  description: "Blog über Strategien und Erfahrungen im Kampf gegen das Chaos in
+  Haus und Kopf: Vom Entrümpeln, Aussortieren, Ordnung schaffen und Fokus setzen." #used by search engines
 
   # Header text
   header_text:
