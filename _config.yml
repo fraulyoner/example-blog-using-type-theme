@@ -20,9 +20,8 @@ theme_settings:
   instagram: "fraulyoner"
   twitter: "fraulyoner"
 
-  # Scripts
-  disqus_shortname:
-  search: true # Enable the search feature
+  # Search feature
+  search: true
 
   # Localization strings
   str_follow_on: "Folge mir auf"
@@ -33,7 +32,6 @@ theme_settings:
   str_next_page: "Ältere Posts"
   str_previous_page: "Neuere Posts"
   str_continue_reading: "Weiterlesen"
-  str_javascript_required_disqus: "Bitte aktiviere JavaScript, um Kommentare zu sehen."
   str_search_no_results: "Keine Ergebnisse gefunden."
 
   # Colours, typography and padding
