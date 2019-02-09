@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hi, ich bin Frau Lyoner!
-nav: About
 ---
 
 Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de). Ich habe
