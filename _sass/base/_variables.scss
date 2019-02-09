@@ -3,6 +3,12 @@ $font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
 
+// Responsive break points
+$device-xs: 768px;
+$device-sm: 1000px;
+$device-md: 1200px;
+$device-lg: 1600px;
+
 // Padding
 $padding-large: 20%;
 $padding-small: 5%;

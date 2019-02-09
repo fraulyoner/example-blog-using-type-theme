@@ -2,7 +2,7 @@
 
   .site-logo, .site-nav {
     @extend %site-el;
-    @extend %padding-small;
+    @extend %padding-regular;
     display: inline-block;
   }
 
@@ -29,7 +29,6 @@
   }
 
   .site-nav {
-    @extend %padding-small;
     width: 100%;
 
     ul {
@@ -60,8 +59,8 @@
       }
     }
 
-    @media (max-width: 1100px) {
-      ul {
+    @media (max-width: $device-xs) {
+      ul.site-nav-right {
         display: inline-block;
         float: left;
         padding-top: $padding-small;
