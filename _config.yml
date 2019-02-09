@@ -47,6 +47,11 @@ theme_settings:
   # Post navigation
   post_navigation: true
 
+  # Related posts
+  related_posts: true
+  related_posts_max: 4
+  related_posts_minCommon: 1
+
 # PAGINATION
 paginate: 3
 paginate_path: "blog/page:num"

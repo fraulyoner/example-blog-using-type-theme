@@ -17,6 +17,11 @@ layout: default
   </section>
 </article>
 
+<!-- Related posts -->
+{% if site.theme_settings.related_posts %}
+{% include related.html %}
+{% endif %}
+
 <!-- Disqus -->
 {% if site.theme_settings.disqus_shortname %}
 <div class="comments">
