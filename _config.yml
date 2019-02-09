@@ -17,12 +17,8 @@ theme_settings:
   # Icons
   rss: true
   email_address: aljona.buchloh@gmail.com
-  facebook:
-  github:
   instagram: "fraulyoner"
-  pinterest:
   twitter: "fraulyoner"
-  youtube:
 
   # Scripts
   disqus_shortname:
