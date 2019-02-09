@@ -26,7 +26,7 @@ layout: default
       <div class="excerpt">
         {{ post.excerpt }}
         <a class="button" href="{{ post.url | relative_url }}">
-          {{ site.theme_settings.str_continue_reading }}
+          Weiterlesen
         </a>
       </div>
     </div>
@@ -38,12 +38,12 @@ layout: default
     {% if paginator.previous_page %}
     <a class="pagination-newer" href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}">
       <i class="fa fa-angle-left"></i>
-      {{ site.theme_settings.str_previous_page }}
+      Neuere Posts
     </a>
     {% endif %}
     {% if paginator.next_page %}
     <a class="pagination-older" href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}">
-      {{ site.theme_settings.str_next_page }}
+      Ältere Posts
       <i class="fa fa-angle-right"></i>
     </a>
     {% endif %}

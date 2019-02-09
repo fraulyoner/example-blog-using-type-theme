@@ -23,17 +23,6 @@ theme_settings:
   # Search feature
   search: true
 
-  # Localization strings
-  str_follow_on: "Folge mir auf"
-  str_rss_follow: "RSS Feed"
-  str_email: "Kontakt aufnehmen"
-  str_next_post: "Nächster Post"
-  str_previous_post: "Vorheriger Post"
-  str_next_page: "Ältere Posts"
-  str_previous_page: "Neuere Posts"
-  str_continue_reading: "Weiterlesen"
-  str_search_no_results: "Keine Ergebnisse gefunden."
-
   # Post navigation
   post_navigation: true
 
