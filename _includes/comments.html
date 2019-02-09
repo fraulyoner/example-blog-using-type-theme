@@ -1,0 +1,35 @@
+<div class="comments" id="comments">
+	<h2>Neuer Kommentar</h2>
+	<p>
+		Fülle folgendes Formular aus und schicke das Ganze per E-Mail ab.
+	</p>
+	<form id="commentform" enctype="text/plain" method="POST" action="mailto:{{ site.theme_settings.email_address }}?Subject=Neuer Kommentar: {{ page.title }}">
+		<input type="hidden" name="post_id" value="{{page.id}}" />
+		<div class="comment-form-element">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name"/>
+    </div>
+		<div class="comment-form-element">
+      <label for="link">Homepage:</label>
+      <input type="text" id="link" name="link"/>
+    </div>
+		<div class="comment-form-element">
+      <label for="comment">Kommentar:</label>
+      <textarea type="text" id="comment" name="comment" rows="10" cols="50"></textarea>
+    </div>
+		<input class="button" type="submit" name="submit" value="Kommentar speichern" />
+	</form>
+
+	{% assign comments = site.data.comments | sort %}
+	{% for comment in comments reversed %}
+		{% assign commentData = comment[1] %}
+		{% if page.id == commentData.post_id %}
+			<div>
+				{{ commentData.name }},
+				{{ commentData.date | date_to_long_string }}:<br/>
+				{{ commentData.message }}<br/>
+				[{{ commentData.post_id }}]
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
