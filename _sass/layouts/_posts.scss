@@ -12,10 +12,19 @@ article,
     margin-top: 1em;
   }
   input[type="text"], textarea {
-    box-sizing: content-box;
+    //box-sizing: content-box;
     padding: 10px;
     border: 1px solid $text-color-light;
     text-overflow: clip;
+    width: 100%;
+    @media(min-width: $device-sm) {
+      width: 50%;
+    }
+  }
+  .comments-list {
+    &:last-child > p:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 article {

@@ -269,8 +269,8 @@ Onlineangebotes führen.
 Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des
 Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der
 Dienste, vor allem im Fall des Trackings, über die US-amerikanische
-Seite <http://www.aboutads.info/choices/> oder die EU-Seite
-<http://www.youronlinechoices.com/> erklärt werden. Des Weiteren kann
+Seite <https://www.aboutads.info/choices/> oder die EU-Seite
+<https://www.youronlinechoices.com/> erklärt werden. Des Weiteren kann
 die Speicherung von Cookies mittels deren Abschaltung in den
 Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass
 dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt
@@ -323,6 +323,11 @@ Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur
 Person, etwaige Kontakt- sowie Websiteinformationen als auch die
 inhaltlichen Angaben, werden von uns bis zum Widerspruch der Nutzer
 dauerhaft gespeichert.]{.ts-muster-content}
+
+Da dies eine statische Webseite ist, verwenden wir [Simple Form](https://getsimpleform.com)
+für unsere Formulare. Bei der Verwendung unseres Formulars zum Erstellen eines
+neuen Kommentars an einem Blog Artikel werden daher die von Ihnen eingegebenen
+Daten vom externen Anbieter [Simple Form](https://getsimpleform.com) verarbeitet und unterliegen dessen Datenschutzerklärung.
 
 ### Hosting und E-Mail-Versand {#dsg-hostingprovider}
 
