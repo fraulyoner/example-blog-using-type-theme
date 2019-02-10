@@ -11,7 +11,7 @@ article,
     display: block;
     margin-top: 1em;
   }
-  input, textarea {
+  input[type="text"], textarea {
     box-sizing: content-box;
     padding: 10px;
     border: 1px solid $text-color-light;

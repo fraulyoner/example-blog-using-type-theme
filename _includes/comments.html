@@ -10,14 +10,14 @@
       <input type="text" id="name" name="name"/>
     </div>
 		<div class="comment-form-element">
-      <label for="link">Homepage:</label>
+      <label for="link">Website:</label>
       <input type="text" id="link" name="link"/>
     </div>
 		<div class="comment-form-element">
       <label for="comment">Kommentar:</label>
-      <textarea type="text" id="comment" name="comment"></textarea>
+      <textarea type="text" id="comment" name="comment" placeholder="Hinterlasse mir einen Kommentar..."></textarea>
     </div>
-		<input class="button" type="submit" name="submit" value="Kommentar speichern" />
+		<input class="button button-inverse" type="submit" name="submit" value="Kommentar speichern" />
 	</form>
 
 	{% assign comments = site.data.comments | sort %}
