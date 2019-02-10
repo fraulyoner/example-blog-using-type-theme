@@ -13,6 +13,8 @@ layout: default
   </header>
   <section class="post-content">
     {{ content }}
+    <h2>Hat dir der Artikel gefallen?</h2>
+    <p>Dann teile ihn doch mit deinen Freunden und/oder hinterlasse mir einen Kommentar!</p>
     {% include signatur.html %}
   </section>
 </article>
@@ -27,5 +29,14 @@ layout: default
 {% include related.html %}
 {% endif %}
 
-<!-- Comments to posts -->
-{% include comments.html %}
+<!-- Comments -->
+<div class="comments">
+  <h2>Kommentare</h2>
+  {% include comments.html %}
+  <h3>Schreibe einen Kommentar</h3>
+  <p>
+    Deine E-Mail-Adresse wird nicht veröffentlicht.<br/>
+    Erforderliche Felder sind mit * gekennzeichnet.
+  </p>
+  {% include comment_form.html redirect="thanks_post.html" %}
+</div>

@@ -1,58 +1,26 @@
-<div class="comments">
-	<h3>Kommentare</h3>
-	{% assign comments = site.data.comments | sort %}
-	{% for comment in comments reversed %}
-		{% assign commentData = comment[1] %}
-		{% if page.id == commentData.post_id %}
-			<div class="comments-list">
-				<p class="meta">
-					{{ commentData.name }}<br/>
-					<small>
-						{% include date.html postDate=commentData.date %}
-						{% if commentData.link %}
-						| <a style="text-transform:lowercase" href="{{ commentData.link }}">{{ commentData.link }}</a>
-						{% endif %}
-					</small>
-				</p>
-				<p>
-				{{ commentData.message }}<br/>
-				<small style="display:none">post_id: '{{ commentData.post_id }}'</small>
-				</p>
-			</div>
-		{% endif %}
-	{% endfor %}
-	<h3>Neuer Kommentar</h3>
-	<p>
-		Alle Eingaben sind optional.<br/>
-		Beachte bitte jedoch, dass ich dich ohne eine E-Mail Adresse nicht
-		kontaktieren kann.
+{% assign comments = site.data.comments | sort %}
+{% assign numberOfComments = 0 %}
+{% for comment in comments reversed %}
+{% assign commentData = comment[1] %}
+{% if page.id == commentData.post_id %}
+{% assign numberOfComments = numberOfComments | plus: 1 %}
+<div class="comments-list">
+	<p class="meta">
+		{{ commentData.name }}<br/>
+		<small>
+			{% include date.html postDate=commentData.date %}
+			{% if commentData.link %}
+			| <a style="text-transform:lowercase" href="{{ commentData.link }}">{{ commentData.link }}</a>
+			{% endif %}
+		</small>
 	</p>
-	<form action="https://getsimpleform.com/messages?form_api_token=ed40647e2c75ba24bb35187658be74a9" method="POST">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thanks.html' />
-	<input type="hidden" name="post_id" value="{{page.id}}" />
-	<div class="comment-form-element">
-		<label for="name">Name:</label>
-		<input type="text" id="name" name="name" placeholder="(optional)"/>
-	</div>
-	<div class="comment-form-element">
-		<label for="email">E-Mail:</label>
-		<input type="text" id="email" name="email" placeholder="(optional)"/>
-	</div>
-	<div class="comment-form-element">
-		<label for="link">Website:</label>
-		<input type="text" id="link" name="link" placeholder="(optional)"/>
-	</div>
-	<div class="comment-form-element">
-		<label for="comment">Kommentar:</label>
-		<textarea type="text" id="comment" name="comment" rows="5" placeholder="Hinterlasse mir einen Kommentar..."></textarea>
-	</div>
-	<input class="button button-inverse" type="submit" name="submit" value="Kommentar speichern" />
-</form>
-<small>
-	Hinweis: Da dieser Blog eine mit <a href="https://jekyllrb.com/">Jekyll</a>
-	erstellte statische Website ist, wird
-	<a href="https://getsimpleform.com">Simple Form</a> verwendet, um die
-	eingegebenen Formulardaten an mich zu übermitteln.
-</small>
+	<p>
+		{{ commentData.message }}<br/>
+		<small style="display:none">post_id: '{{ commentData.post_id }}'</small>
+	</p>
 </div>
+{% endif %}
+{% endfor %}
+{% if numberOfComments == 0 %}
+<p>Dieser Artikel hat noch keine Kommentare.</p>
+{% endif %}

@@ -1,0 +1,28 @@
+<form action="https://getsimpleform.com/messages?form_api_token=ed40647e2c75ba24bb35187658be74a9" method="POST">
+<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/{{ include.redirect }}' />
+<input type="hidden" name="post_id" value="{{page.id}}" />
+<div class="comment-form-element">
+  <label for="name">Name *</label>
+  <input type="text" id="name" name="name" />
+</div>
+<div class="comment-form-element">
+  <label for="email">E-Mail *</label>
+  <input type="text" id="email" name="email" />
+</div>
+<div class="comment-form-element">
+  <label for="link">Website</label>
+  <input type="text" id="link" name="link" />
+</div>
+<div class="comment-form-element">
+  <label for="comment">Nachricht</label>
+  <textarea type="text" id="comment" name="comment" rows="5" placeholder="Schreib mir, was du denkst..."></textarea>
+</div>
+<input class="button button-inverse" type="submit" name="submit" value="Absenden" />
+</form>
+<p class="sticky"><small>
+Hinweis: Da dieser Blog eine mit <a href="https://jekyllrb.com/">Jekyll</a>
+erstellte statische Website ist, wird
+<a href="https://getsimpleform.com">Simple Form</a> verwendet, um die
+eingegebenen Formulardaten an mich zu übermitteln.
+</small></p>

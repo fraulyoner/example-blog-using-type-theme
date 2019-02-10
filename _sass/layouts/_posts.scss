@@ -1,24 +1,27 @@
 .post-content > :last-child {
   margin-bottom: 0;
 }
-article,
-.comments {
+article, .comments {
   @extend %padding-regular;
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
-  label {
-    display: block;
-    margin-top: 1em;
+  h2 {
+    margin-top: 0;
   }
-  input[type="text"], textarea {
-    //box-sizing: content-box;
-    padding: 10px;
-    border: 1px solid $text-color-light;
-    text-overflow: clip;
-    width: 100%;
-    @media(min-width: $device-sm) {
-      width: 50%;
+  .comment-form-element {
+    label {
+      display: block;
+      margin-top: 1em;
+    }
+    input[type="text"], textarea {
+      padding: 10px;
+      border: 1px solid $text-color-light;
+      text-overflow: clip;
+      width: 100%;
+      @media(min-width: $device-sm) {
+        width: 50%;
+      }
     }
   }
   .comments-list {
