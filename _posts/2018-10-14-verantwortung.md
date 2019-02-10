@@ -17,7 +17,7 @@ geplagt wird und vermeide es tunlichst, dein eigenes Verhalten zu
 reflektieren. Trample unbedacht auf den Gefühlen anderer Menschen herum
 und begründe es damit, dass du eben so bist und nicht anders kannst.
 
-### Suhlst du dich gern in der Opferrolle?
+## Suhlst du dich gern in der Opferrolle?
 
 Dann nur weiter so, du machst das genau richtig.
 
