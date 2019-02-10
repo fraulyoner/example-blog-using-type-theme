@@ -5,6 +5,8 @@ categories:
 - Perspektive
 tags:
 - Achtsamkeit
+redirect_from:
+- /2018/12/wie-die-zeit-verfliegt-neujahrsgrue-von.html
 ---
 
 Kaum zu glauben, schon wieder ein Jahr rum. Das Jahr 2019 steht

@@ -7,6 +7,8 @@ tags:
 - Verzicht
 - Minimalismus
 - Nachhaltigkeit
+redirect_from:
+- /2019/02/worauf-ich-verzichte.html
 ---
 
 Zum 6-jährigen Bestehen seines Blogs hat Christof von

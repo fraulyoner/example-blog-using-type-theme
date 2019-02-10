@@ -6,6 +6,8 @@ categories:
 tags:
 - Gedankenmuster
 - Perspektive
+redirect_from:
+- /2018/10/prime-directive-im-alltag.html
 ---
 
 *Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von

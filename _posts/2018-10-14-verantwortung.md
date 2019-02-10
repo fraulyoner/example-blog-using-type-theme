@@ -6,6 +6,8 @@ categories:
 tags:
 - Perspektive
 - Gedankenmuster
+redirect_from:
+- /2018/10/verantwortung.html
 ---
 
 Beklage dich möglichst oft darüber, wie schwer du es im Leben hast und welchem

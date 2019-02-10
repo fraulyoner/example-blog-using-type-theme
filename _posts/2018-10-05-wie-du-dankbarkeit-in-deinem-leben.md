@@ -8,6 +8,8 @@ tags:
 - Achtsamkeit
 - Gedankenmuster
 - Perspektive
+redirect_from:
+- /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
 ---
 
 Stelle überhöhte Ansprüche und nimm alles Positive als

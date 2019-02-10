@@ -6,6 +6,8 @@ categories:
 tags:
 - Perspektive
 - Achtsamkeit
+redirect_from:
+- /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.* - Ist dir dieser Satz auch
