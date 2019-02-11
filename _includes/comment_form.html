@@ -4,19 +4,19 @@
 <input type="hidden" name="post_id" value="{{page.id}}" />
 <div class="comment-form-element">
   <label for="name">Name *</label>
-  <input type="text" id="name" name="name" />
+  <input type="text" id="name" name="name" required />
 </div>
 <div class="comment-form-element">
   <label for="email">E-Mail *</label>
-  <input type="text" id="email" name="email" />
+  <input type="text" id="email" name="email" required />
 </div>
 <div class="comment-form-element">
   <label for="link">Website</label>
   <input type="text" id="link" name="link" />
 </div>
 <div class="comment-form-element">
-  <label for="comment">Nachricht</label>
-  <textarea type="text" id="comment" name="comment" rows="5" placeholder="Schreib mir, was du denkst..."></textarea>
+  <label for="comment">Nachricht *</label>
+  <textarea type="text" id="comment" name="comment" required rows="5" placeholder="Schreib mir, was du denkst..."></textarea>
 </div>
 <input class="button button-inverse" type="submit" name="submit" value="Absenden" />
 </form>
