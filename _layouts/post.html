@@ -8,7 +8,7 @@ layout: default
     <p class="meta">
       {% include date.html postDate=page.date %}
       {% if page.author %} - {{ page.author }}{% endif %}
-      {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
+      {% include tags_list.html tags=page.tags %}
     </p>
   </header>
   <section class="post-content">

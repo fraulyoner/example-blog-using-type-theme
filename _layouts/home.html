@@ -21,6 +21,7 @@ layout: default
         </h1>
         <p class="meta">
           {% include date.html postDate=post.date %}
+          {% include tags_list.html tags=post.tags %}
         </p>
       </header>
       <div class="excerpt">
