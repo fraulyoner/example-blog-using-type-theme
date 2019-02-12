@@ -4,7 +4,6 @@ title: 5 Arten von Büchern, die ich endlich aussortiert habe
 categories:
 - Ordnung
 tags:
-- Aufräumen
 - Aussortieren
 redirect_from:
 - /2018/03/bucher-die-ich-getrost-aussortieren-kann.html

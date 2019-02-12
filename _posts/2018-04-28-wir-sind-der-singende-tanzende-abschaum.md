@@ -4,7 +4,7 @@ title: Wir sind der singende, tanzende Abschaum der Welt
 categories:
 - Perspektive
 tags:
-- Perspektive
+- Perspektivenwechsel
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 ---

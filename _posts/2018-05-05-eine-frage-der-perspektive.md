@@ -4,7 +4,8 @@ title: Wie deine Perspektive deine Zufriedenheit beeinflusst
 categories:
 - Perspektive
 tags:
-- Perspektive
+- Dankbarkeit
+- Perspektivenwechsel
 - Zufriedenheit
 redirect_from:
 - /2018/05/eine-frage-der-perspektive.html

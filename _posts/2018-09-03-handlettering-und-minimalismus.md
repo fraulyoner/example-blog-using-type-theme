@@ -4,8 +4,8 @@ title: Was hat Handlettering eigentlich mit Minimalismus zu tun?
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Lettering
+- Minimalismus
+- Handlettering
 redirect_from:
 - /2018/09/was-hat-handlettering-eigentlich-mit.html
 ---

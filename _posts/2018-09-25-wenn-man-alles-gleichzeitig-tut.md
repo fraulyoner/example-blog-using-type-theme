@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Scannerpersönlichkeit
-- Allrounder
+- Multitalent
 - Gedankenchaos
 redirect_from:
 - /2018/09/wenn-man-alles-gleichzeitig-tut-aber.html

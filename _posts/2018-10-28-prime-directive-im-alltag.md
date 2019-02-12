@@ -4,8 +4,7 @@ title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 categories:
 - Perspektive
 tags:
-- Gedankenmuster
-- Perspektive
+- Perspektivenwechsel
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html
 ---

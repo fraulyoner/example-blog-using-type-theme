@@ -6,6 +6,7 @@ categories:
 tags:
 - Kaufverhalten
 - Nachhaltigkeit
+- Selbsttäuschung
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-1-kampf.html
 ---

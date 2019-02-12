@@ -4,8 +4,8 @@ title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
 categories:
 - Perspektive
 tags:
-- Perspektive
-- Gedankenmuster
+- Perspektivenwechsel
+- Selbsttäuschung
 redirect_from:
 - /2018/10/verantwortung.html
 ---

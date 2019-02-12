@@ -4,8 +4,8 @@ title: Wohin mit aussortierten Büchern?
 categories:
 - Ordnung
 tags:
-- Aufräumen
 - Aussortieren
+- Nachhaltigkeit
 redirect_from:
 - /2018/03/wohin-mit-aussortierten-buchern.html
 ---

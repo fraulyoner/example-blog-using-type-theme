@@ -4,7 +4,7 @@ title: Wieso negative Gefühle gut für dich sind
 categories:
 - Perspektive
 tags:
-- Perspektive
+- Perspektivenwechsel
 - Achtsamkeit
 redirect_from:
 - /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html

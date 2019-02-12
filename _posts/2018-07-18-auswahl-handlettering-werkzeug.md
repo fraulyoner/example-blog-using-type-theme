@@ -4,8 +4,8 @@ title: Eine Reise durch den Dschungel der Handlettering-Materialien
 categories:
 - Nachhaltigkeit
 tags:
-- Kaufverhalten
-- Lettering
+- Handlettering
+- DIY
 redirect_from:
 - /2018/07/bewusste-auswahl-des-werkzeugs-beim.html
 ---
