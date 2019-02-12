@@ -25,6 +25,10 @@ article, .comments {
     }
   }
   .comments-list {
+    border-bottom: 1px dotted $border-color;
+    & + .comments-list {
+      padding-top: 1em;
+    }
     &:last-child > p:last-child {
       margin-bottom: 0;
     }
