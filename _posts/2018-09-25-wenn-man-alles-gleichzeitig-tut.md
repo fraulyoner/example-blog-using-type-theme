@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 In meinem letzten Beitrag habe ich aus dem Nähkästchen eines
-Allrounderlebens geplaudert: [Wenn man alles kann, aber nichts so richtig.]({{ site.baseurl }}{% link _posts/2018-09-14-wenn-man-alles-kann-aber-nichts-so.md %})
+Allrounderlebens geplaudert: [Wenn man alles kann, aber nichts so richtig.]({{ site.baseurl }}{% link _posts/2018-09-14-wenn-man-alles-kann.md %})
 
 Von der ruhelosen Suche nach der einen Leidenschaft und vom Leid der
 Unentschlossenheit. Diese Eigenheiten manifestieren sich nicht nur im

@@ -10,7 +10,6 @@ redirect_from:
 - /2018/07/bewusste-auswahl-des-werkzeugs-beim.html
 ---
 
-
 Wie man an meinen Beiträgen bzw. den zugehörigen Bildern unschwer
 erkennen kann, schlägt mein Herz für die Buchstabenmalerei, gemeinhin
 auch bekannt als Handlettering. Seit Ende 2015 bin ich diesem kreativen

@@ -24,7 +24,7 @@ unnötig erweisen.
 
 Aber musst du wirklich alles innerhalb weniger Sekunden kaufen, nur weil
 du die Möglichkeit dazu hast? Rufe dir die Fallen der Selbsttäuschung
-aus dem [letzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-kampf.md %}) in Erinnerung und denke zunächst über Alternativen
+aus dem [letzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) in Erinnerung und denke zunächst über Alternativen
 nach.
 
 ## Alternativen zum Neukauf

@@ -17,7 +17,7 @@ abartig haarenden Hund gewinnen wir sicherlich keinen Preis in Sachen
 
 ## Gut gepfuscht ist halb gewonnen
 
-In einem [vergangenen Beitrag]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-kampf.md %}) habe ich folgende Anregung gegeben, um unnötige Impulskäufe zu vermeiden:
+In einem [vergangenen Beitrag]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %}) habe ich folgende Anregung gegeben, um unnötige Impulskäufe zu vermeiden:
 
 > Werde kreativ! Denke um mehrere Ecken, statt direkt auf die erstbeste
 > gekaufte Lösung zurückzugreifen.

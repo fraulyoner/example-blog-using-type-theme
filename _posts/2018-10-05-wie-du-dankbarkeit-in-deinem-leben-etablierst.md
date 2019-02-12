@@ -106,8 +106,8 @@ Solch eine Haltung trägt auch zu einem bedachteren Konsumverhalten bei.
 Erinnerst du dich noch an meine Beiträge über das kritische Hinterfragen
 von Einkäufen:
 
--   [Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-kampf.md %})
--   [Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-kampf.md %})
+-   [Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})
+-   [Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})
 
 ### Stift und Papier - ist das Vintage, Retro oder Mittelalter?
 
