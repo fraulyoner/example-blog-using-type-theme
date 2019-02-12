@@ -45,7 +45,7 @@ Dinger, mit denen man "Angry Birds" zockt.
 
 ## 2. Nebenbei aufräumen
 
-In einem [älteren Blog Post](TODO-http://www.meinimalismus.de/2018/03/wie-entsteht-chaos.html) habe ich das bereits näher ausgeführt.
+In einem [älteren Blog Post]({{ site.baseurl }}{% link _posts/2018-03-25-wie-entsteht-chaos.md %}) habe ich das bereits näher ausgeführt.
 
 **Um gar nicht erst Unordnung entstehen zu lassen, schiebe keine
 Aufgaben auf, die du direkt mit einem Handgriff erledigen kannst.**

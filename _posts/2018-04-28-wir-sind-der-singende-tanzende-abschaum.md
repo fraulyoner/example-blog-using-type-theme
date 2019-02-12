@@ -9,7 +9,7 @@ redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 ---
 
-Als ich im [vorletzten Beitrag](TODO-http://www.meinimalismus.de/2018/04/brauche-ich-das-wirklich-teil-1-kampf.html) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem wunderbaren Film einen ganzen
+Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-kampf.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem wunderbaren Film einen ganzen
 Beitrag zu widmen. Für mich ist er einfach ein Meisterwerk. Grandios und
 unheimlich inspirierend.
 
@@ -92,7 +92,7 @@ Anerkennung durch Statussymbole? Sich diese Frage ehrlich zu
 beantworten, ist nicht unbedingt leicht, aber sinnvoll.
 
 Weiter zum Beitrag:\\
-[Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen](TODO-http://www.meinimalismus.de/2018/04/brauche-ich-das-wirklich-teil-1-kampf.html)
+[Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-kampf.md %})
 
 ### Du bist nicht dein Job. Du bist nicht das Geld auf deinem Konto. Nicht das Auto, das du fährst. Nicht der Inhalt deiner Brieftasche. Und nicht deine blöde Cargo-Hose. Du bist der singende, tanzende Abschaum der Welt!
 
@@ -121,7 +121,7 @@ inklusive dir selbst. Nutze deine begrenzte Zeit, wie du allein es für
 richtig hältst.
 
 Weiter zum Beitrag:\\
-[Vergänglichkeit als Kompass](TODO-http://www.meinimalismus.de/2018/04/verganglichkeit-als-kompass.html)
+[Vergänglichkeit als Kompass]({{ site.baseurl }}{% link _posts/2018-04-08-verganglichkeit-als-kompass.md %})
 
 ## Welche Empfehlungen hast du?
 

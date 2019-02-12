@@ -26,7 +26,8 @@ mit diesen ewigen Schrankhütern auf sich?
 
 ## Kleidung, die ich getrost aussortieren kann
 
-Im Zuge des [Entrümpelns nach KonMari](TODO-http://www.meinimalismus.de/2018/02/konmari.html) habe ich mich ganz besonders mit meinen Schrankhütern auseinandergesetzt. Dabei stellte ich fest, dass ich mir selbst ganz schön viele Lügen auftischte. Von diesen Selbstlügen und der dazugehörigen Kleidung handelt folgende Liste.
+Im Zuge des [Entrümpelns nach KonMari]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})
+habe ich mich ganz besonders mit meinen Schrankhütern auseinandergesetzt. Dabei stellte ich fest, dass ich mir selbst ganz schön viele Lügen auftischte. Von diesen Selbstlügen und der dazugehörigen Kleidung handelt folgende Liste.
 
 ### Selbstlüge Nr. 1: Irgendwann passe ich da wieder rein
 
@@ -174,10 +175,12 @@ Fuß zu verstauchen - ja, das ist wirklich schon passiert. Also standen
 die Schuhe fast nur im Schuhschrank herum. Absolute Geld- und
 Platzverschwendung.
 
-Durch das [Entrümpeln nach KonMari](TODO-http://www.meinimalismus.de/2018/02/konmari.html) mit der einhergehenden Frage "*Macht mich das Kleidungsstück glücklich?"* habe ich erkannt, dass eben diese sogenannten schicken Klamotten keine Freude in mir auslösten. Ich hatte keine wirkliche Beziehung zu ihnen. Sie
-waren zwar schön, aber sie passten nicht zu mir. Als ich sie gekauft
-hatte, habe ich unbewusst nicht wirklich mir eine Freude machen wollen,
-sondern anderen Menschen.
+Durch das [Entrümpeln nach KonMari]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})
+mit der einhergehenden Frage "*Macht mich das Kleidungsstück glücklich?"* habe
+ich erkannt, dass eben diese sogenannten schicken Klamotten keine Freude in mir
+auslösten. Ich hatte keine wirkliche Beziehung zu ihnen. Sie waren zwar schön,
+aber sie passten nicht zu mir. Als ich sie gekauft hatte, habe ich unbewusst
+nicht wirklich mir eine Freude machen wollen, sondern anderen Menschen.
 
 **Hast du Kleidung, die du nicht gerne trägst, weil du dich nicht wohl
 darin fühlst? Dann solltest du dich davon verabschieden.**

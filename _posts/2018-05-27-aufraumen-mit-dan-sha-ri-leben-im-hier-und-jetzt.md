@@ -16,8 +16,8 @@ mir schon vor mehreren Jahren für ein Aha-Erlebnis in Sachen Ordnung
 gesorgt. Daher bin ich ein ganz großer Fan der KonMari-Methode.
 
 Hier habe ich bereits darüber berichtet:\\
-[Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht](TODO-http://www.meinimalismus.de/2018/02/konmari.html)\\
-[Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss](TODO-http://www.meinimalismus.de/2018/03/aufraumen-mit-konmari-teil-2-das.html)
+[Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})\\
+[Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
 
 ## KonMari vs. Dan Sha Ri
 

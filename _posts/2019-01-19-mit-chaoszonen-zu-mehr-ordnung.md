@@ -11,12 +11,12 @@ redirect_from:
 ---
 Es kann nicht immer tippitoppi aussehen. So ist eben das Leben.
 Auch wenn ich im länger zurückliegenden
-[Artikel über Entstehung von Chaos]({{site.baseurl}}/2014/11/30/TODO.html)
+[Artikel über Entstehung von Chaos]({{ site.baseurl }}{% link _posts/2018-03-25-wie-entsteht-chaos.md %})
 einige Strategien im Kampf gegen Unordnung vorgestellt habe, halte ich mich
 selbst doch auch nicht zuverlässig daran.
 
 Genau so sieht es auch mit meinen
-[abendlichen Routinen]({{site.baseurl}}/2014/11/30/TODO.html) aus.
+[abendlichen Routinen]({{ site.baseurl }}{% link _posts/2018-04-01-abendroutinen-eines-morgenmuffels.md %}) aus.
 Ich erledige eben nicht immer alles sofort, was mit einem Handgriff erledigt
 werden könnte. Und manchmal sieht die Küche abends halt aus wie Sau, wenn ich zu
 müde oder faul bin. Aber was soll's, Chaos läuft schließlich nur selten von

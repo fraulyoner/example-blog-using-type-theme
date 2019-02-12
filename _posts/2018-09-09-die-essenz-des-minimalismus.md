@@ -38,7 +38,7 @@ zufrieden war, erreichte ich nicht.
 ### Die Dinge und ich
 
 Als ich dann 2015 auf die
-[KonMari](TODO-http://www.meinimalismus.de/2018/02/konmari.html) Methode
+[KonMari Methode]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})
 stieß, begann eine Welle der Entrümpelung neuen Ausmaßes. Statt mich
 ausschließlich mit den Dingen in meiner Umgebung auseinanderzusetzen,
 rückte der Fokus auf mich selbst. Wer bin ich eigentlich? Was gefällt

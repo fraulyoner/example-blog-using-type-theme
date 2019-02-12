@@ -31,8 +31,9 @@ Vorsicht, womöglich könntest du gute Laune bekommen ;-)
 ## Wie du mit Dankbarkeit deine Lebensqualität verbessern kannst
 
 Erinnerst du dich an meinen Beitrag über die Wichtigkeit der eigenen
-Perspektive? ([Wie deine Perspektive deine Zufriedenheit
-beeinflusst](TODO/2018/05/eine-frage-der-perspektive.html))
+Perspektive:\\
+[Wie deine Perspektive deine Zufriedenheit beeinflusst]({{ site.baseurl }}{% link _posts/2018-05-05-eine-frage-der-perspektive.md %})
+
 Unsere Zufriedenheit hängt weniger von äußeren Umständen ab, als
 vielmehr davon, wie wir mit diesen umgehen. Entscheidend ist, wie wir
 unseren Fokus ausrichten.
@@ -105,10 +106,8 @@ Solch eine Haltung trägt auch zu einem bedachteren Konsumverhalten bei.
 Erinnerst du dich noch an meine Beiträge über das kritische Hinterfragen
 von Einkäufen:
 
--   [Brauche ich das wirklich? - Teil 1: Kampf den
-    Selbsttäuschungen](TODO https://www.meinimalismus.de/2018/04/brauche-ich-das-wirklich-teil-1-kampf.html)
--   [Brauche ich das wirklich? - Teil 2: Kampf den
-    Impulskäufen](TODO https://www.meinimalismus.de/2018/04/brauche-ich-das-wirklich-teil-2-kampf.html)
+-   [Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-kampf.md %})
+-   [Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-kampf.md %})
 
 ### Stift und Papier - ist das Vintage, Retro oder Mittelalter?
 
