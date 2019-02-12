@@ -6,7 +6,7 @@ article, .comments {
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
-  h2 {
+  h2.comment-title {
     margin-top: 0;
   }
   .comment-form-element {
@@ -85,13 +85,13 @@ header {
 
 .post-content img {
   border: 1px solid $post-image-border-color;
-  width: $post-image-width;
+  //width: $post-image-width;
   height: $post-image-height;
 }
 
 .post-content img.signatur {
   border: none;
-  width: 320px;
+  width: $post-image-width;
   height: auto;
   max-width: 100%;
 }
