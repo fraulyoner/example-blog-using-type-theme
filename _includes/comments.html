@@ -1,6 +1,6 @@
 {% assign comments = site.data.comments | sort %}
 {% assign numberOfComments = 0 %}
-{% for comment in comments reversed %}
+{% for comment in comments %}
 {% assign commentData = comment[1] %}
 {% if page.id == commentData.post_id %}
 {% assign numberOfComments = numberOfComments | plus: 1 %}
