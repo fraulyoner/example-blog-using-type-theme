@@ -10,6 +10,7 @@ tags:
 - Zufriedenheit
 redirect_from:
 - /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
+image: dankbar.jpg
 ---
 
 Stelle überhöhte Ansprüche und nimm alles Positive als

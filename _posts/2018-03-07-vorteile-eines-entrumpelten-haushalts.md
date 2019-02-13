@@ -8,6 +8,7 @@ tags:
 - Aussortieren
 redirect_from:
 - /2018/03/vorteile-eines-entrumpelten-haushalts.html
+image: in-your-house.jpg
 ---
 
 Für mich ist Putzen ein lästiges, aber leider notwendiges Übel.

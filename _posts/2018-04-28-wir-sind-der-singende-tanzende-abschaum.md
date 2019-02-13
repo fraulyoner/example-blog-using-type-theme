@@ -7,6 +7,7 @@ tags:
 - Perspektivenwechsel
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
+image: alles-was-du-hast.jpg
 ---
 
 Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem wunderbaren Film einen ganzen

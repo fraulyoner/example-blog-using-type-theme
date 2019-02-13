@@ -9,6 +9,7 @@ tags:
 - KonMari
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
+image: konmari-2.jpg
 ---
 
 Im vorherigen Beitrag ging es um das Grundprinzip beim Aufräumen

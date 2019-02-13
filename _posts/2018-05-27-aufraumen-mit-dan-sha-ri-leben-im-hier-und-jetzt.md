@@ -9,6 +9,7 @@ tags:
 - DanShaRi
 redirect_from:
 - /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html
+image: dan-sha-ri.jpg
 ---
 
 Marie Kondo hat mit ihrem Buch [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning) bei

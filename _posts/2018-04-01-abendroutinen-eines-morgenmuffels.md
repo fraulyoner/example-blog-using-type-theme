@@ -8,6 +8,7 @@ tags:
 - Routinen
 redirect_from:
 - /2018/04/abendroutinen-eines-morgenmuffels.html
+image: chaos-am-morgen.jpg
 ---
 
 Neulich hatte ich einen dieser seltenen Tage, da bin ich schon mit

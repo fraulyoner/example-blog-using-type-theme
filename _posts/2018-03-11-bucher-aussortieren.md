@@ -7,6 +7,7 @@ tags:
 - Aussortieren
 redirect_from:
 - /2018/03/bucher-die-ich-getrost-aussortieren-kann.html
+image: buecher.jpg
 ---
 
 Früher war ich der Ansicht, jedes Buch, das ich jemals gekauft

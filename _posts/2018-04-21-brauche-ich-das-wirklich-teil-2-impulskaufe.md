@@ -8,6 +8,7 @@ tags:
 - Nachhaltigkeit
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-2-kampf.html
+image: zuvielisation.jpg
 ---
 
 Noch nie war Einkaufen so leicht wie heute. Nicht nur, dass die

@@ -7,6 +7,7 @@ tags:
 - Achtsamkeit
 redirect_from:
 - /2018/08/einfach-mal-den-stecker-ziehen.html
+image: auszeit.jpg
 ---
 
 *Ich geh jetzt off* - Kennt noch jemand diesen Klassiker aus den

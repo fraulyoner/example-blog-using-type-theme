@@ -8,6 +8,7 @@ tags:
 - Achtsamkeit
 redirect_from:
 - /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
+image: nicht-ok.jpg
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.* - Ist dir dieser Satz auch

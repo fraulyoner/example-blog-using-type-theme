@@ -9,6 +9,7 @@ tags:
 - Nachhaltigkeit
 redirect_from:
 - /2019/02/worauf-ich-verzichte.html
+image: verzicht.jpg
 ---
 
 Zum 6-jährigen Bestehen seines Blogs hat Christof von

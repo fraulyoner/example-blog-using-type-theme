@@ -9,6 +9,7 @@ tags:
 - Zufriedenheit
 redirect_from:
 - /2018/04/verganglichkeit-als-kompass.html
+image: zeit-buddha.jpg
 ---
 
 Wir müssen alle sterben. Wir wissen nicht wann, wo oder wie. Aber

@@ -9,6 +9,7 @@ tags:
 - Zufriedenheit
 redirect_from:
 - /2018/05/eine-frage-der-perspektive.html
+image: karl-valentin.jpg
 ---
 
 Egal, wie sehr wir uns bemühen, wir können den Lauf der Dinge nur

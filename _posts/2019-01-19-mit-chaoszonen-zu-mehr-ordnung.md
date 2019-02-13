@@ -8,6 +8,7 @@ tags:
 - Routinen
 redirect_from:
 - /2019/01/mit-chaoszonen-zu-mehr-ordnung-zuhause.html
+image: gestern-war-es-aufgeraumt.jpg
 ---
 Es kann nicht immer tippitoppi aussehen. So ist eben das Leben.
 Auch wenn ich im länger zurückliegenden

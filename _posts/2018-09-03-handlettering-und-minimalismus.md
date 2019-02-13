@@ -8,6 +8,7 @@ tags:
 - Handlettering
 redirect_from:
 - /2018/09/was-hat-handlettering-eigentlich-mit.html
+image: handlettering.jpg
 ---
 
 Minimalismus21 ([M21)](https://minimalismus21.de/) ist ein

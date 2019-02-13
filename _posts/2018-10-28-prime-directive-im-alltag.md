@@ -7,6 +7,7 @@ tags:
 - Perspektivenwechsel
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html
+image: nachfragen-statt-urteilen.jpg
 ---
 
 *Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von

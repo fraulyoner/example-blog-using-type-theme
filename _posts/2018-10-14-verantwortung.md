@@ -8,6 +8,7 @@ tags:
 - Selbsttäuschung
 redirect_from:
 - /2018/10/verantwortung.html
+image: du-musst-nichts.jpg
 ---
 
 Beklage dich möglichst oft darüber, wie schwer du es im Leben hast und welchem

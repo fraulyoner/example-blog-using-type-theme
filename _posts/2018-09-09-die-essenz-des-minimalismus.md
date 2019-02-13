@@ -8,6 +8,7 @@ tags:
 - Minimalismus
 redirect_from:
 - /2018/09/die-essenz-des-minimalismus.html
+image: keep-life-simple.jpg
 ---
 
 Besitze ich weniger als 100 Dinge? Ist mein Kleiderschrank eine

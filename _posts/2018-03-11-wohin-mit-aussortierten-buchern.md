@@ -8,6 +8,7 @@ tags:
 - Nachhaltigkeit
 redirect_from:
 - /2018/03/wohin-mit-aussortierten-buchern.html
+image: buch-muell.jpg
 ---
 
 Es gibt sehr viele Möglichkeiten aussortierte Bücher loszuwerden.
