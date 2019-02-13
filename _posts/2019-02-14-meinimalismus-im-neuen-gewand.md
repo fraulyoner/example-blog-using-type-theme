@@ -21,7 +21,7 @@ Design zu investieren. Also entschied ich mich für
 [Google Blogger](https://www.blogger.com/about/?hl=de) als Plattform und
 konnte nach relativ kurzer Zeit des Rumwerkelns mit dem Schreiben loslegen.
 
-## Ade, Google Blogger!
+## Tschüss, Google Blogger!
 
 Heute, ein Jahr später, habe ich beschlossen, mich von
 [Google Blogger](https://www.blogger.com/about/?hl=de) zu lösen und etwas
