@@ -1,9 +1,7 @@
 # meinimalismus.de
 
-Work in progress...
-
-Reconstructing my blog [meinimalismus.de](https://meinimalismus.de) to a
-[Jekyll](https://jekyllrb.com) Blog using the great
+My personal blog [meinimalismus.de](https://meinimalismus.de) powered by
+[Jekyll](https://jekyllrb.com) using the great
 [Type Theme](https://rohanchandra.github.io/type-theme/).
 
 ## Run site locally
