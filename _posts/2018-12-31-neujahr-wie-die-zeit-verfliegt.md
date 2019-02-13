@@ -2,7 +2,7 @@
 layout: post
 title: Wie die Zeit verfliegt - Neujahrsgrüße von Frau Lyoner
 categories:
-- Perspektive
+- Meta
 tags:
 - Meta
 redirect_from:
