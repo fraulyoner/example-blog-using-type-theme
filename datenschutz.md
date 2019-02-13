@@ -363,6 +363,54 @@ Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung
 zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des
 jeweiligen Vorfalls von der Löschung ausgenommen.
 
+### StatCounter
+
+Wir setzen den Webanalysedienst StatCounter, angeboten von StatCounter, Guinness
+Enterprise Centre, Taylor's Lane, Dublin 8, Ireland, ein.
+
+StatCounter ist ein Online-Service, der uns hilft, unsere Besucher zu verstehen;
+zum Beispiel, wie Besucher unsere Website finden, wie lange sie sich auf unserer
+Website aufhalten, welche Webseiten sie am meisten interessieren, etc. Wir
+verwenden StatCounter, weil ein besseres Verständnis, wie Besucher mit unserer
+Website interagieren, uns hilft, den Inhalt, das Design und die Funktionalität
+unserer Website zu verbessern. Dies ermöglicht es uns, unseren Besuchern ein
+besseres Online-Erlebnis zu bieten.
+
+StatCounter verwendet Cookies und andere Technologien, um Daten über Besucher
+und Besucheraktivitäten auf unserer Website in einem Nutzerprofil zu sammeln. Zu
+diesen Daten gehören:
+
+- Uhrzeit und Datum des Besuchs (dies kann uns helfen, die Besuche auf unserer
+  Website zu identifizieren und zu planen); IP-Adresse (dies ist ein numerisches
+  Etikett, das einem Gerät von einem Internet Service Provider zugewiesen wird,
+  damit das Gerät auf das Internet zugreifen kann); Browser und Betriebssystem
+  (dies kann uns helfen, sicherzustellen, dass unsere Website in den
+  Browsern/Betriebssystemen, die für den Zugriff auf unsere Website verwendet
+  werden, korrekt funktioniert); Geräteinformationen wie z.B. Gerätetyp und
+  Bildschirmgröße (dies kann uns helfen, sicherzustellen, dass unsere Website in
+  den Geräten, die für den Zugriff auf unsere Website verwendet werden, korrekt
+  funktioniert); Verweise auf Daten wie z.B. einen Suchmaschinen-Link (dies kann
+  uns helfen zu verstehen, welche Suchmaschinen den Besuchern helfen, unsere
+  Website zu finden);
+
+Wenn Sie unsere Website besuchen, kann außerdem ein Statcounter-Cookie (genannt
+"is_unique") in Ihrem Browser abgelegt werden. Dieses Cookie wird nur verwendet,
+um festzustellen, ob Sie ein Erst- oder Wiederholungsbesucher sind und um
+einmalige Besuche auf der Website zu schätzen.
+
+Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer
+Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1
+lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf
+Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse,
+Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des
+Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.
+
+Weitere Informationen zur Datenverarbeitung durch StatCounter erhalten Sie in
+der [Datenschutzerklärung des Anbieters](https://statcounter.com/about/legal/#privacy)
+
+Sie können zudem der Erfassung durch StatCounter widersprechen (Opt-Out):
+[http://statcounter.com/about/set-refusal-cookie/](http://statcounter.com/about/set-refusal-cookie/)
+
 ### Google Fonts {#dsg-thirdparty-googlefonts}
 
 Wir binden die Schriftarten ("Google Fonts") des Anbieters Google
