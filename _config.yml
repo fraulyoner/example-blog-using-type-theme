@@ -9,7 +9,7 @@ theme_settings:
   favicon: assets/favicon.ico
   description: "Blog über Strategien und Erfahrungen im Kampf gegen das Chaos in
   Haus und Kopf: Vom Entrümpeln, Aussortieren, Ordnung schaffen und Fokus setzen." #used by search engines
-  image: "/assets/img/logo.png"
+  image: "assets/img/logo.png"
 
   # Header text
   header_text:
