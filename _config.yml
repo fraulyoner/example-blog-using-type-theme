@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/meinimalismus"
-url: "https://fraulyoner.github.io"
+baseurl: "/"
+url: "http://meinimalismus.de"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
