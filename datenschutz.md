@@ -302,7 +302,7 @@ eine sonstige individuelle Benachrichtigung erforderlich wird.
 
 ### Kommentare und Beiträge {#dsg-comments}
 
-[Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre
+Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre
 IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des
 Art. 6 Abs. 1 lit. f. DSGVO für 7 Tage gespeichert werden. Das erfolgt
 zu unserer Sicherheit, falls jemand in Kommentaren und Beiträgen
@@ -322,7 +322,7 @@ verwenden, um Mehrfachabstimmungen zu vermeiden.
 Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur
 Person, etwaige Kontakt- sowie Websiteinformationen als auch die
 inhaltlichen Angaben, werden von uns bis zum Widerspruch der Nutzer
-dauerhaft gespeichert.]{.ts-muster-content}
+dauerhaft gespeichert.
 
 Da dies eine statische Webseite ist, verwenden wir [Simple Form](https://getsimpleform.com)
 für unsere Formulare. Bei der Verwendung unseres Formulars zum Erstellen eines
