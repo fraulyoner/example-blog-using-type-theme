@@ -43,7 +43,7 @@ einen Marathon laufen oder komplett auf ein plastikfreies Leben und
 einfach mit kleinen Schritten an, die langfristig zu großen Erfolgen
 führen können.
 
-## Denkfalle #2: Verantwortung - Mein Partner/Kind/Goldhamster macht da leider nicht mit.
+## Denkfalle #2: Verantwortung - Mein Partner / Kind / Goldhamster macht da leider nicht mit.
 
 Ein Klassiker des Selbstbetruges. Die Schuld woanders als bei sich selbst zu
 suchen, ist aber auch eine echt bequeme Sache.
