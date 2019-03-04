@@ -1,0 +1,68 @@
+---
+layout: post
+title: Minimalismus im Putzschrank - DIY Badreiniger
+categories:
+- Nachhaltigkeit
+tags:
+- DIY
+- Nachhaltigkeit
+---
+
+Braucht es wirklich für jeden Anwendungsfall einen speziellen Reiniger? Drölf
+unterschiedliche Bodenreiniger und zig verschiedene Anti-XY-Sprays? Zu meiner
+Schande muss ich gestehen: Geprägt von Werbung und Co. war ich die längste Zeit
+meines Lebens genau so drauf und habe ständig in neue, angeblich
+sensationelle Putzmittelchen investiert.
+
+Meine Auseinandersetzung mit dem Minimalismus hat die bei uns beheimatete
+Anzahl der Reiniger im Laufe der Zeit zwar deutlich reduziert, aber dennoch
+nutzte ich weiterhin Spezialreiniger, wie zum Beispiel Badreiniger.
+Vermutlich gibt es schlimmere Badreiniger als die von
+[Frosch](https://www.frosch.de/Produkte/Putzen/Badreiniger/Frosch-Citrus-Dusche-Bad-Reiniger/)
+oder [Ecover](https://www.ecover.com/de/produkte/badreiniger/).
+Trotzdem habe ich mich gefragt: Muss ich wirklich regelmäßig neuen Plastikmüll
+erzeugen, selbst wenn ich bloß Nachfüllpackungen kaufe? Und können die
+Inhaltsstoffe tatsächlich so “öko” sein, wenn der Geruch jedes Mal meine Nase
+reizt?
+
+## Experiment: DIY Badreiniger
+
+Als unser Badreiniger nun vor einigen Wochen zur Neige ging, beschloss ich, ein
+Experiment zu wagen: DIY Badreiniger.
+
+Als naives Werbeopfer hatte ich meine Zweifel, ob das funktionieren kann.
+Wird das Bad damit tatsächlich sauber? Phantasien von Keimen und mangelnder
+Hygiene streiften durch meinen Kopf. Trotzdem wollte ich es ausprobieren und
+stieß bei meiner Internetrecherche auf
+mehrere Rezepte, von denen mich das von [Silke Stadler](https://www.silke-stadler.de/putzmittel-selber-machen/) am meisten ansprach:
+
+### Rezept
+
+* 1000ml Leitungswasser
+* 2 bis 3 Esslöffel Zitronensäure Pulver
+* Einige Spritzer Spülmittel (in meinem Fall [Ecover Handspülmittel](https://www.ecover.com/de/produkte/hand-spuelmittel-zitrone-aloe-vera/))
+
+Das Wasser wird in einen Messbecher gefüllt und anschließend die Zitronensäure
+hinzugegeben. Es wird solange gerührt, bis sich das Pulver im Wasser gelöst hat.
+Diese Mischung wird in eine Sprühflasche gefüllt. Ich habe einfach die leere
+Badreinigerflasche dafür genutzt. Jetzt kommen noch einige Spritzer Spülmittel
+hinzu und fertig ist der Badreiniger.
+
+Klar, das Spülmittel ist letztlich auch bloß ein gekaufter Reiniger - und noch
+dazu in einer Plastikflasche. Dennoch schont die geringe Menge in Summe
+Ressourcen und Geldbeutel.
+
+### Einwandfrei
+
+Ich bin nach inzwischen mehrmaligem Einsatz mehr als zufrieden. Der DIY
+Badreiniger stinkt nicht und funktioniert einwandfrei. Alles wird sauber -
+Waschbecken, Armaturen und Co. Wir haben hier sehr kalkhaltiges Wasser, aber
+dank der enthaltenen Zitronensäure ist das gar kein Problem. Theoretisch könnte
+man auch Essig nehmen, aber da wären wir dann wieder bei der gereizten Nase,
+weshalb ich Zitronensäure bevorzuge.
+
+### Mischimaschi
+
+Lust bekommen, dir auch was zu mischen?
+Oder hast du vielleicht schon öfters Reiniger selbst hergestellt?
+Berichte mir gerne von deinen Erfahrungen! Ich bin gespannt.
