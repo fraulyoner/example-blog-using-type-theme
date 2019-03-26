@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aufräumen mit Dan Sha Ri - Teil 1: Leben im Hier und Jetzt'
+title: 'Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt'
 categories:
 - Ordnung
 tags:

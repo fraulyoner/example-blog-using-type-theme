@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aufräumen mit Dan Sha Ri - Teil 2: Praxistipps für mehr Ordnung'
+title: 'Aufräumen mit Dan Sha Ri – Teil 2: Praxistipps für mehr Ordnung'
 categories:
 - Ordnung
 tags:

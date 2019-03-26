@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schöner Pfuschen - Zeit zum Improvisieren
+title: Schöner Pfuschen – Zeit zum Improvisieren
 categories:
 - Nachhaltigkeit
 tags:

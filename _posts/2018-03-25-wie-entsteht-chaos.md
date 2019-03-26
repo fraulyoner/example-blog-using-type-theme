@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ungebetener Gast Unordnung - Wo kommt sie eigentlich her?
+title: Ungebetener Gast Unordnung – Wo kommt sie eigentlich her?
 categories:
 - Ordnung
 tags:

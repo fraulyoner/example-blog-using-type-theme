@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht'
+title: 'Aufräumen mit KonMari – Teil 1: Behalte nur, was dich glücklich macht'
 categories:
 - Ordnung
 tags:

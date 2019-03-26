@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordnung und Sauberkeit - Gibt es da überhaupt einen Unterschied?
+title: Ordnung und Sauberkeit – Gibt es da überhaupt einen Unterschied?
 categories:
 - Ordnung
 tags:

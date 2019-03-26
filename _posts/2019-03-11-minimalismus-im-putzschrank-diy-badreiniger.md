@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimalismus im Putzschrank - DIY Badreiniger
+title: Minimalismus im Putzschrank – DIY Badreiniger
 categories:
 - Nachhaltigkeit
 tags:

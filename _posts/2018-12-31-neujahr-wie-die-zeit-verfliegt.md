@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wie die Zeit verfliegt - Neujahrsgrüße von Frau Lyoner
+title: Wie die Zeit verfliegt – Neujahrsgrüße von Frau Lyoner
 categories:
 - Meta
 tags:
