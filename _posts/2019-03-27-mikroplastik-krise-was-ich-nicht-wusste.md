@@ -42,7 +42,7 @@ gehört. Trotzdem war mir das Ausmaß der Problematik echt nicht bewusst. Na gut
 kaufe ich halt keine Kosmetika, die Mikroplastik enthalten, dann wird das schon
 passen. Von wegen! Ich war ja sooo naiv...
 
-### Bio, fancy und so, kein Garant für Mikroplastikfreiheit
+### 1. Bio, fancy und hipp ist kein Garant für Mikroplastikfreiheit
 
 Im Zuge meiner Leserei zum Thema (Plastik-)Müll habe ich mir die
 [App Codecheck](https://www.codecheck.info/so-gehts/mobil)
@@ -66,7 +66,7 @@ habe ich jetzt mal mit [DIY Badreiniger]({{ site.baseurl }}{% link _posts/2019-0
 werden vermutlich eine halbe Ewigkeit halten und damit auf jeden Fall schon mal
 einiges an Plastikmüll reduzieren.
 
-### Milchprodukte gibt's auch im Pfandglas
+### 2. Milchprodukte gibt's auch im Pfandglas
 
 Es ist wirklich sooo naheliegend und trotzdem war's irgendwie nicht in meiner
 Hirnreichweite. Warum lauter Müll durch Joghurt in Plastikbechern und Milch im
@@ -77,7 +77,7 @@ auch Joghurtgläser tatsächlich Mehrweg sind und man diese gar nicht zum Altgla
 bringen muss. Vom Umweltaspekt her also mega sinnvoll, wenn man schon nicht auf
 Milchprodukte verzichten möchte.
 
-### Weg mit den Mikrofasertüchern
+### 3. Weg mit den Mikrofasertüchern
 
 Nachdem ich über [Mikroplastik aus Textilien](https://www.wir-leben-nachhaltig.at/aktuell/detailansicht/mikroplastik-aus-textilien/) gelesen hatte, klang es für mich
 total einleuchtend. Trotzdem wäre ich da im Leben nie von selbst draufgekommen.
