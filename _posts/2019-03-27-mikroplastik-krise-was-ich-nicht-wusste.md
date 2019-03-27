@@ -10,7 +10,7 @@ tags:
 - Kaufverhalten
 ---
 
-Alles hat mit dem Lesen eines Online-Artikels über Plastikvermeidung im Alltag
+Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag
 angefangen. Ich kann nicht mal mehr sagen, was für ein Artikel das genau war.
 Bis dato hatte ich gedacht, so schlimm könne unser Lebenswandel in Sachen
 (Plastik-)Müll schon nicht sein. Doch mit jedem weiteren Artikel, den ich las –
@@ -46,19 +46,20 @@ passen. Von wegen! Ich war ja sooo naiv...
 
 Im Zuge meiner Leserei zum Thema (Plastik-)Müll habe ich mir die
 [App Codecheck](https://www.codecheck.info/so-gehts/mobil)
-installiert, um allerlei unserer im Haushalt befindlichen Drogerieartikel zu
+zugelegt, um allerlei unserer im Haushalt befindlichen Drogerieartikel zu
 checken. Was dabei herauskam, hat mich wirklich schockiert.
 
 Ich war seit Jahren großer Fan der Duschgels von [Treaclemoon](https://www.treaclemoon.de/).
-Toller Duft, schicke Verpackung und Werbeslogans von wegen "vegan",
-"tierversuchsfrei" und sonstwas. In meiner Naivität bin ich davon ausgegangen,
-dass das sicherlich eine Marke sei, der die Umwelt am Herzen liegt, und deren
-Produkte wohl kaum mit Mikroplastik gespickt sein könnten. Tja, falsch gedacht.
-Ich weiß nicht, ob wirklich alle Duschgels der Marke Mikroplastik enthalten,
-unseres aber jedenfalls schon.
+Toller Duft, schicke Verpackung und Werbeslogans wie "vegan", "tierversuchsfrei"
+und sonstwas. In meiner Naivität bin ich davon ausgegangen, dass das sicherlich
+eine Marke sei, der die Umwelt am Herzen liegen müsste, und deren Produkte wohl
+kaum mit Mikroplastik gespickt sein könnten. Tja, falsch gedacht. Ich weiß
+nicht, ob wirklich alle Produkte Mikroplastik enthalten, unser Duschgel aber
+jedenfalls schon.
 
 Doch Mikroplastik als Inhaltsstoff hin oder her – ständig neue Verpackungen für
-Duschgels, Shampoos etc. zu kaufen, ist ohnehin nicht der nachhaltigste Weg. Ich
+Duschgels, Shampoos etc. zu kaufen, ist ohnehin nicht der nachhaltigste Weg.
+Auch wenn das bei mir erst jetzt angekommen ist. Doch besser spät als nie. Ich
 weiß nicht, wie viele meiner Produkte ich langfristig in einer plastikfreien
 Alternative finden oder vielleicht sogar selbst herstellen werde, aber zumindest
 habe ich jetzt mal mit [DIY Badreiniger]({{ site.baseurl }}{% link _posts/2019-03-11-minimalismus-im-putzschrank-diy-badreiniger.md %}), einem [festen Seifenstück](https://www.waschbaer.de/shop/zhenobya-olivenseife-naturblock-200-g-23215?fromPage=1&K=820649) und einer [Deocreme](https://www.dm.de/greendoor-greendoor-deo-creme-p737925276929.html) begonnen. Diese drei Dinge
