@@ -38,7 +38,7 @@
     function createPostListingHTML(postItem) {
       var headingHTML = "<h2><a class='search-link' href='" + postItem.url + "'>" + postItem.title + "</a></h2>";
       var metaHTML = "<div class='meta'>" + postItem.category + "</div>";
-      var descriptionHTML = "<p>" + postItem.content.substring(0, 150) + "...</p>";
+      var descriptionHTML = "<p>" + postItem.content.substring(0, 280) + "...</p>";
       return headingHTML + metaHTML + descriptionHTML;
     }
 
