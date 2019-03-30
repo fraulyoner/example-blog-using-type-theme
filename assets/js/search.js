@@ -36,9 +36,10 @@
     }
 
     function createPostListingHTML(postItem) {
-      var headingHTML = "<h2><a  class='search-link' href='" + postItem.url + "''>" + postItem.title + "</a></h2>";
+      var headingHTML = "<h2><a class='search-link' href='" + postItem.url + "'>" + postItem.title + "</a></h2>";
+      var metaHTML = "<div class='meta'>" + postItem.category + "</div>";
       var descriptionHTML = "<p>" + postItem.content.substring(0, 150) + "...</p>";
-      return headingHTML + descriptionHTML;
+      return headingHTML + metaHTML + descriptionHTML;
     }
 
     function displaySearchResults(results, store) {
