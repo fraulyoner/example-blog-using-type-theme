@@ -62,8 +62,8 @@ normalerweise so gut wie alles an Obst und Gemüse verpackungsfrei und
 unterstützt auch noch eher regionale Erzeuger. Zugegeben, ein bisschen teurer
 ist der Einkauf auf dem Wochenmarkt (zumindest auf dem hiesigen) im Vergleich
 zum 0815-Supermarkt schon. Aber ganz ehrlich, wenn man an sinnlosen Käufen
-spart, kann man das gesparte Geld auch für Lebensmittel zum Nicht-Dumpingpreis
-einsetzen. ([Brauche ich das wirklich?]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}))
+spart – [Brauche ich das wirklich?]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) – kann man das gesparte Geld auch für
+Lebensmittel zum Nicht-Dumpingpreis einsetzen.
 
 ### 2. Pfandglas statt Plastik oder Tetrapak
 
@@ -91,11 +91,13 @@ Bäckertüte. Und falls doch eine anfällt:
 ### 4. Verpackung wiederverwenden statt wegwerfen
 
 Da wir mittlerweile den Biomüll konsequent vom Restmüll trennen, ist unser
-Restmüll recht überschaubar und eher trockener Natur, weshalb sich benutzte
-Bäckertüten prima als Mülltüten umfunktionieren lassen. Geeignet sind auch
-andere Verpackungen, denn wenn diese sowieso schon anfallen, kann man sie
-zumindest noch wiederverwenden. Ein gutes Beispiel neben der Bäckertüte ist z.B.
-auch die Verpackung von Klopapier.
+Restmüll recht überschaubar und eher trockener Natur. (Eine Ausnahme stellen da
+leider die Windeln des kleinen Fräuleins dar, aber das ist ein anderes Thema,
+das mich ziemlich wurmt und sich hoffentlich in absehbarer Zeit von selbst
+erledigt.) Für den normalen Restmüll lassen sich Bäckertüten prima als Mülltüten
+umfunktionieren. Geeignet sind auch andere Verpackungen, denn wenn diese sowieso
+schon anfallen, kann man sie zumindest noch wiederverwenden. Ein gutes Beispiel
+neben der Bäckertüte ist z.B. auch die Verpackung von Klopapier.
 
 Zack, extra Plastikmüll in Form von Mülltüten (aka Tüten direkt für die Tonne)
 gespart.
@@ -109,10 +111,11 @@ Mülltüten für die Biotonne – [Die gehören da nicht rein!](https://www.eva-
 
 ### 5. Taschentuchbox statt Einzelpackungen
 
-A propos Restmüll: Bei uns sind das vor allem Taschentücher. Klar,
-optimalerweise würde man einfach waschbare Stofftaschentücher verwenden und gar
-keinen Müll erzeugen, aber das ist für mich (bisher) noch nicht vorstellbar,
-muss ich gestehen. Irgendwie ekelt mich der Gedanke.
+A propos Restmüll: Bei uns besteht dieser hauptsächlich aus Taschentüchern –
+Kinder nennt man nicht umsonst Rotznasen. Klar, optimalerweise würde man zum
+Nase putzen einfach waschbare Stofftaschentücher verwenden und gar keinen Müll
+erzeugen, aber das ist für mich (bisher) noch nicht vorstellbar, muss ich
+gestehen. Irgendwie ekelt mich der Gedanke.
 
 Doch zumindest besitzen wir mittlerweile [Recycling-Taschentücher in der Papierbox vom dm](https://www.dm.de/soft-und-sicher-taschentuecher-box-recycling-100-stueck-p4058172050831.html)
 und reduzieren so den Verbrauch der Taschentücher in einzelnen
