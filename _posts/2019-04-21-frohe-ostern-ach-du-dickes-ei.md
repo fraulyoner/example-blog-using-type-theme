@@ -40,3 +40,7 @@ mich gerade tierisch über mich selbst und diesen Doppel-Fail. Da habe ich mir
 wohl selbst ein Ei gelegt... Den Ärger halte ich nun voller Absicht in diesem
 Blog Post fest, um mich nächstes Jahr daran zu erinnern und es hoffentlich
 besser zu machen :-)
+
+Update: Nachdem ich das erste Ei geschält hatte, roch es derart heftig nach
+Lösungsmittel, dass nicht einmal mehr ich mich getraut habe, es zu essen. Super
+Fail... Bitte keinesfalls nachmachen!
