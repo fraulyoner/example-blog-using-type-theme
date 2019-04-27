@@ -8,6 +8,7 @@ tags:
 - Nachhaltigkeit
 - Zero Waste
 - Kaufverhalten
+- Müllvermeidung
 ---
 
 Seit bei mir die [Mikroplastik-Krise]({{ site.baseurl }}{% link _posts/2019-03-27-mikroplastik-krise-was-ich-nicht-wusste.md %}) losgebrochen ist, haben sich bei uns zuhause einige

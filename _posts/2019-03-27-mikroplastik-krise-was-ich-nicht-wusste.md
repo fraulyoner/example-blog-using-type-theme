@@ -8,6 +8,7 @@ tags:
 - Nachhaltigkeit
 - Zero Waste
 - Kaufverhalten
+- Müllvermeidung
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag

@@ -6,6 +6,7 @@ categories:
 tags:
 - DIY
 - Nachhaltigkeit
+- Müllvermeidung
 ---
 
 Braucht es wirklich für jeden Anwendungsfall einen speziellen Reiniger? Drölf

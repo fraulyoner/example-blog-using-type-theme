@@ -6,6 +6,7 @@ categories:
 tags:
 - Nachhaltigkeit
 - Zero Waste
+- Upcycling
 ---
 
 Ostern ist vorbei. Das bedeutet, in wenigen Monaten ist schon wieder
