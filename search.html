@@ -23,7 +23,7 @@ robots: noindex,follow
         "tags": "{{ post.tags | join: ', ' }}",
         "date": "{{ post.date | date: '%d.%m.%Y' }}",
         "author": "{{ post.author | xml_escape }}",
-        "category": "{{ post.categories | join: ', ' }}",
+        "tags": "{{ post.tags | join: ', ' }}",
         "content": {{ post.content | strip_html | jsonify }},
         "url": "{{ site.baseurl }}{{ post.url | xml_escape }}"
       }

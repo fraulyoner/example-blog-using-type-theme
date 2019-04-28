@@ -37,7 +37,7 @@
 
     function createPostListingHTML(postItem) {
       var headingHTML = "<h2><a class='search-link' href='" + postItem.url + "'>" + postItem.title + "</a></h2>";
-      var metaHTML = "<div class='meta'>" + postItem.category + "</div>";
+      var metaHTML = "<div class='meta'>" + postItem.tags + "</div>";
       var descriptionHTML = "<p>" + postItem.content.substring(0, 280) + "...</p>";
       return headingHTML + metaHTML + descriptionHTML;
     }
@@ -60,7 +60,7 @@
           "id": key,
           "title": postJSON.title,
           "author": postJSON.author,
-          "category": postJSON.category,
+          "tags": postJSON.tags,
           "content": postJSON.content
       });
     }
@@ -74,7 +74,7 @@
               boost: 10
           });
           this.field("author");
-          this.field("category");
+          this.field("tags");
           this.field("content");
       });
 
