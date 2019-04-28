@@ -31,6 +31,10 @@
   .excerpt {
     margin-top: 1em;
   }
+  .title {
+    @extend %padding-regular;
+    padding-bottom: 0;
+  }
 }
 // Pagination
 .pagination {
