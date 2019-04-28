@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="posts">
+{% for post in site.tags[ page.title ] %}
+  {% if post.title != null %}
+  <div class="post-teaser">
+    <header>
+      <h1>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <p class="meta">
+        {% include date.html postDate=post.date %}
+        {% include tags_list.html tags=post.tags %}
+      </p>
+    </header>
+    <div class="excerpt">
+      {% if post.image %}
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ post.image }}"/>
+      {% endif %}
+      <div class="excerpt-text">
+      {{ post.excerpt }}
+      <a class="button" href="{{ post.url | relative_url }}">
+        Weiterlesen
+      </a>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>

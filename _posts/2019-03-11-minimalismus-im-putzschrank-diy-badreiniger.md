@@ -6,7 +6,7 @@ categories:
 tags:
 - DIY
 - Nachhaltigkeit
-- Zero Waste
+- Zero-Waste
 ---
 
 Braucht es wirklich für jeden Anwendungsfall einen speziellen Reiniger? Drölf

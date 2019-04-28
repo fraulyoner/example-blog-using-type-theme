@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
-- Zero Waste
+- Zero-Waste
 - Kaufverhalten
 ---
 

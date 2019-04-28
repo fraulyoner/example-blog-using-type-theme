@@ -2,7 +2,7 @@
 <span class="tags">
   {% for tag in include.tags %}
   <span class="tag">
-    <a href="{{site.baseurl}}/tags#{{ tag | cgi_escape }}">{{tag}}</a>
+    <a href="{{site.baseurl}}/tags/{{ tag | cgi_escape }}">{{tag}}</a>
   </span>
   {% endfor %}
 </span>
