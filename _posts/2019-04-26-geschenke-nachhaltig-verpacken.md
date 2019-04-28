@@ -6,7 +6,6 @@ categories:
 tags:
 - Nachhaltigkeit
 - Zero Waste
-- Upcycling
 image: geschenke-in-zeitungspapier.jpg
 ---
 

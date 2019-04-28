@@ -4,7 +4,6 @@ title: Wie du Dankbarkeit in deinem Leben etablierst und was du davon hast
 categories:
 - Perspektive
 tags:
-- Dankbarkeit
 - Achtsamkeit
 - Perspektivenwechsel
 - Zufriedenheit

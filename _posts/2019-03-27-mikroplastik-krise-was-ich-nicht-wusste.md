@@ -4,11 +4,9 @@ title: Voll in der Mikroplastik-Krise oder 3 Dinge, die ich einfach nicht wusste
 categories:
 - Nachhaltigkeit
 tags:
-- Mikroplastik
 - Nachhaltigkeit
 - Zero Waste
 - Kaufverhalten
-- Müllvermeidung
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag
