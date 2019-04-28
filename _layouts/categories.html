@@ -4,24 +4,16 @@ layout: page
 
 {{ content }}
 
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h2 id="{{ category_name | slugize }}" class="tag-title">
-      {{ category_name }}
-    </h2>
-    <img class="tag-img" src="{{ site.baseurl }}/assets/img/categories/{{ category_name }}.jpg" alt="{{ category_name }}"></img>
-    {% for post in site.categories[category_name] %}
-    <div class="tagged-post">
-      <h3 class="title">
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h3>
-      <div class="meta">
-        {% include date.html postDate=post.date %}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-{% endfor %}
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
+{% if site_tags.size > 0 %}
+<ul>
+  {% for item in (0..site.tags.size) %}
+    {% unless forloop.last %}
+      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+      <li><a href="{{site.baseurl}}/tags/{{ this_word | cgi_escape }}">{{ this_word }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+{% endif %}
