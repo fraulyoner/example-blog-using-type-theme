@@ -24,7 +24,7 @@ robots: noindex,follow
         "date": "{{ post.date | date: '%d.%m.%Y' }}",
         "author": "{{ post.author | xml_escape }}",
         "tags": "{{ post.tags | join: ', ' }}",
-        "content": {{ post.content | strip_html | jsonify }},
+        "content": {{ post.excerpt | strip_html | jsonify }},
         "url": "{{ site.baseurl }}{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
