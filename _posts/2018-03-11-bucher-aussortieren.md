@@ -8,6 +8,9 @@ tags:
 redirect_from:
 - /2018/03/bucher-die-ich-getrost-aussortieren-kann.html
 image: buecher.jpg
+excerpt: "<p>Früher war ich der Ansicht, jedes Buch, das ich jemals gekauft
+oder geschenkt bekommen hatte, behalten zu müssen. Für immer. Inzwischen
+sehe ich das anders.</p>"
 ---
 
 Früher war ich der Ansicht, jedes Buch, das ich jemals gekauft

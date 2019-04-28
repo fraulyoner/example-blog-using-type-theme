@@ -9,6 +9,10 @@ tags:
 redirect_from:
 - /2018/07/bewusste-auswahl-des-werkzeugs-beim.html
 image: handlettering-material.png
+excerpt: "<p>Handlettering ist unheimlich abwechslungsreich mit einem
+vielfältigen Repertoire an möglichen Werkzeugen und Techniken. Die immense
+Auswahl birgt allerdings besonders für Anfänger die Gefahr, sich im Dschungel
+der unterschiedlichen Materialien zu verzetteln.</p>"
 ---
 
 Wie man an meinen Beiträgen bzw. den zugehörigen Bildern unschwer

@@ -14,16 +14,17 @@ image: dan-sha-ri.jpg
 
 Marie Kondo hat mit ihrem Buch [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning) bei
 mir schon vor mehreren Jahren für ein Aha-Erlebnis in Sachen Ordnung
-gesorgt. Daher bin ich ein ganz großer Fan der KonMari-Methode.
+gesorgt. Kürzlich stieß ich auf die Methode [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges-ebook/dp/B01G1SA28Y/ref=sr_1_1?ie=UTF8&qid=1524167898&sr=8-1&keywords=danshari) von Hideko Yamashita
+und empfand das Buch als weitaus ganzheitlicher und nachhaltiger.
 
-Hier habe ich bereits darüber berichtet:\\
+Hier habe ich bereits über die KonMari-Methode berichtet:\\
 [Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})\\
 [Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
 
 ## KonMari vs. Dan Sha Ri
 
 Was mir bei [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning)
-allerdings gar nicht zusagt, ist die verherrlichte Wegwerfmentalität.
+gar nicht zusagt, ist die verherrlichte Wegwerfmentalität.
 Alles, was nach dem Ausmisten nicht bleiben darf, fliegt sofort in die
 Mülltonne. Selbst, wenn es sich um nigelnagelneues Geschirr oder
 ungetragene Kleidung handelt. Dabei gibt es genug Möglichkeiten, gut

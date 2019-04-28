@@ -6,6 +6,7 @@ categories:
 tags:
 - Meta
 - Minimalismus
+image: meinimalismus.jpg
 ---
 
 Es ist ziemlich genau ein Jahr her, dass ich meinen Blog Meinimalismus ins

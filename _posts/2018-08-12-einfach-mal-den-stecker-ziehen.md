@@ -8,6 +8,8 @@ tags:
 redirect_from:
 - /2018/08/einfach-mal-den-stecker-ziehen.html
 image: auszeit.jpg
+excerpt: "<p>Zwei Wochen Handy-Auszeit liegen hinter mir. Eine interessante
+Erfahrung, die einem zeigt, wie oft man eigentlich unbewusst zum Handy greift.</p>"
 ---
 
 *Ich geh jetzt off* - Kennt noch jemand diesen Klassiker aus den

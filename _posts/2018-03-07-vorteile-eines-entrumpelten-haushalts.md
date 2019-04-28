@@ -9,6 +9,9 @@ tags:
 redirect_from:
 - /2018/03/vorteile-eines-entrumpelten-haushalts.html
 image: in-your-house.jpg
+excerpt: "<p>Für mich ist Putzen ein lästiges, aber leider notwendiges Übel.
+Um die Zeit für die Saubermachaktionen zu minimieren, ist es hilfreich, Platz
+und Ordnung zu schaffen, indem man sich von unnötigen Dingen trennt.</p>"
 ---
 
 Für mich ist Putzen ein lästiges, aber leider notwendiges Übel.

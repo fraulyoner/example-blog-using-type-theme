@@ -10,6 +10,9 @@ tags:
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg
+excerpt: "<p>Wieso trage ich eigentlich ständig die gleichen Sachen? Und warum
+besitze ich Kleidungsstücke, die fast nur im Schrank hängen? Was hat es
+mit diesen ewigen Schrankhütern auf sich?</p>"
 ---
 
 Während ich vor dem vollen Kleiderschrank stehe, denke ich mir:\\

@@ -25,10 +25,15 @@ layout: default
         </p>
       </header>
       <div class="excerpt">
+        {% if post.image %}
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ post.image }}"/>
+        {% endif %}
+        <div class="excerpt-text">
         {{ post.excerpt }}
         <a class="button" href="{{ post.url | relative_url }}">
           Weiterlesen
         </a>
+        </div>
       </div>
     </div>
     {% endfor %}

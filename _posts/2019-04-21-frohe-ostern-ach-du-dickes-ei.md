@@ -6,6 +6,10 @@ categories:
 tags:
 - Nachhaltigkeit
 - DIY
+image: ostereier-diy.jpg
+excerpt: "<p>Ich habe dieses Jahr meinem inneren Chaoten wieder alle Ehre gemacht.
+Eigentlich hatte ich geplant, ein Experiment zu starten und Eier auf natürliche
+Weise zu färben. Leider habe ich mir dann selbst ein Ei gelegt.</p>"
 ---
 
 Ein frohes Osterfest miteinander!

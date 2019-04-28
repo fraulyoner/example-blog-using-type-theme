@@ -10,6 +10,10 @@ tags:
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
 image: konmari-2.jpg
+excerpt: "<p>Übung macht den Meister. Auch beim Aufräumen. Mit jeder
+Entscheidung für oder gegen einen Gegenstand gewinnt man mehr Sicherheit und
+Selbstvertrauen in die eigene Urteilskraft. Daher empfiehlt es sich, eine
+bestimmte Reihenfolge einzuhalten.</p>"
 ---
 
 Im vorherigen Beitrag ging es um das Grundprinzip beim Aufräumen

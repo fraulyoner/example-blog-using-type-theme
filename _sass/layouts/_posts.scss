@@ -99,3 +99,29 @@ header {
   height: auto;
   max-width: 100%;
 }
+
+.post-teaser img {
+  border: 1px solid $post-image-border-color;
+  @media (max-width: $device-xs) {
+    max-width: $post-image-width;
+  }
+}
+
+.excerpt {
+  a.button {
+    margin: 0;
+  }
+}
+
+@media (min-width: $device-xs) {
+  .excerpt {
+    display: table;
+
+    img + .excerpt-text {
+      display: table-cell;
+      padding-left: 1.25em;
+      vertical-align: top;
+      width: 70%;
+    }
+  }
+}

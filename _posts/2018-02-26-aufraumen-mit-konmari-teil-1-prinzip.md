@@ -10,6 +10,10 @@ tags:
 redirect_from:
 - /2018/02/konmari.html
 image: konmari-1.jpg
+excerpt: "<p>Kontinuierlich reduzierte ich mein Gerümpel, dennoch hatte ich
+stets das Gefühl, nie so richtig fertig zu werden. Erst durch die
+KonMari-Methode verstand ich plötzlich, wieso es mir nie gelang, einen Zustand
+zu erreichen, mit dem ich langfristig zufrieden war.</p>"
 ---
 
 Als Teenager hatte ich unglaublich viele Staubfänger: Tonfiguren,

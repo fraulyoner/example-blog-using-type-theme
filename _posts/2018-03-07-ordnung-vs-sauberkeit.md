@@ -7,6 +7,7 @@ tags:
 - Aufräumen
 redirect_from:
 - /2018/03/ordnung-vs-sauberkeit.html
+image: ordnung-sauberkeit.jpg
 ---
 
 Die Begriffe Ordnung und Sauberkeit werden manchmal synonym verwendet.

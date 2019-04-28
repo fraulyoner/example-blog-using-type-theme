@@ -8,15 +8,15 @@ tags:
 - Routinen
 redirect_from:
 - /2018/06/ordnung-fur-faule.html
+image: wo-gibts-nichts-zu-tun.jpg
 ---
 
-Hallo,
-liebe Ordnungsgemeinde. Ich bin die Frau Lyoner und ich bin faul.
-Trotzdem mag ich es halbwegs ordentlich, denn sonst fühle ich mich nicht
-wohl und kann abends auf dem Sofa, meinem Lieblingsort, nicht richtig
-entspannen. Wenn es dir ähnlich geht, nimm dir ein paar Minuten Zeit und
-führe dir meine selbst erprobten Tipps in Sachen Ordnung für Faule zu
-Gemüte.
+Hallo, liebe Ordnungsgemeinde. Ich bin die Frau Lyoner und ich bin faul.
+Trotzdem mag ich es halbwegs ordentlich, denn sonst fühle ich mich nicht wohl
+und kann abends auf dem Sofa, meinem Lieblingsort, nicht richtig entspannen.
+
+Wenn es dir ähnlich geht, nimm dir ein paar Minuten Zeit und führe dir meine
+selbst erprobten Tipps in Sachen Ordnung für Faule zu Gemüte.
 
 ![Ich habe gerade Zeit, wo gibt's nichts zu tun?]({{site.baseurl}}/assets/img/posts/wo-gibts-nichts-zu-tun.jpg)
 

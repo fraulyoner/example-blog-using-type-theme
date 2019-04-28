@@ -10,6 +10,7 @@ tags:
 - Upcycling
 redirect_from:
 - /2018/07/zeit-zum-improvisieren.html
+image: pfuschen-4.jpg
 ---
 
 Mit einem kleinem Kind, das regelmäßig für Verwüstung sorgt und einem

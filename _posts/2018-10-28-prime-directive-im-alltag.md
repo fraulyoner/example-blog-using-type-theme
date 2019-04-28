@@ -8,9 +8,13 @@ tags:
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html
 image: nachfragen-statt-urteilen.jpg
+excerpt: "<p>Was ist das bloß für ein Idiot?! – Kennst du solche Gedanken
+auch? Mit diesem Blog Post möchte ich dir einige Gedankenanstöße liefern, um
+deine Mitmenschen weniger verurteilend zu betrachten und dadurch ärgerliche
+Gefühle bei dir selbst zu mindern.</p>"
 ---
 
-*Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von
+*Was ist das bloß für ein Idiot?!* – Verbunden mit Gefühlen von
 Ärger habe ich mir diese Frage leider schon häufiger gestellt. Seit
 längerer Zeit versuche ich konsequent, wenn auch nicht immer ganz so
 erfolgreich, solche verurteilenden Gedanken zu vermeiden. Warum? Weil es

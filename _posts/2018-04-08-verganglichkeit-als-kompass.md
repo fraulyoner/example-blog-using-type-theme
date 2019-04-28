@@ -10,6 +10,8 @@ tags:
 redirect_from:
 - /2018/04/verganglichkeit-als-kompass.html
 image: zeit-buddha.jpg
+excerpt: "<p>Um über meine Prioritäten und Ziele nachzudenken, wende ich gerne
+ein morbides Gedankenspiel an. Neugierig?</p>"
 ---
 
 Wir müssen alle sterben. Wir wissen nicht wann, wo oder wie. Aber
