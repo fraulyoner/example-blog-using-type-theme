@@ -8,7 +8,7 @@ habe diesen Blog ins Leben gerufen, um über meinen ganz persönlichen Weg zu
 einem minimalistischen Leben, kurz Meinimalismus, zu schreiben.
 
 Ich strebe weder ein völlig spartanisches Leben an, noch möchte ich mir ein
-bestimmtes Limit von Besitztümern setzen. Mein Ziel ist es,Dinge aus meinem
+bestimmtes Limit von Besitztümern setzen. Mein Ziel ist es, Dinge aus meinem
 Leben fernzuhalten, die ich nicht brauche und/oder nicht mag. Ich möchte mich
 auf das Wesentliche fokussieren und das [alltägliche Chaos in Haus und Kopf bändigen]({{ site.baseurl }}{% link _posts/2018-03-07-vorteile-eines-entrumpelten-haushalts.md %}).
 
@@ -19,8 +19,8 @@ ich mir mein Gedankenchaos ganz allein erschaffe, habe ich bei der häuslichen
 Unordnung tatkräftige Unterstützung in Form von Ehemann, Tochter und Hund.
 
 In diesem Blog berichte ich von meinen Strategien und Erfahrungen im Kampf gegen
-Gedankenchaos und Unordnung. Außerdem setze ich mich mittlerweile immer mehr mit
+Gedankenchaos und Unordnung. Außerdem setze ich mich immer mehr mit
 dem Thema [Zero Waste]({{ site.baseurl }}/tags#Zero+Waste) auseinander und
-versuche auch in diesem Sinne Unnötiges aus meinem Leben fernzuhalten.
+versuche unnötigen (Verpackungs-)Müll aus meinem Leben fernzuhalten.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
