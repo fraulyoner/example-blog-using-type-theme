@@ -8,6 +8,10 @@ tags:
 - Perspektivenwechsel
 - Selbsttäuschung
 image: motivation-vs-habit.jpg
+excerpt: "<p>Eigentlich willst du etwas in deinem Leben verändern, doch
+irgendetwas hindert dich daran? Vielleicht kennst auch du eine der folgenden
+Denkfallen, in die ich leider nur zu gerne tappe und mich damit selbst
+sabotiere.</p>"
 ---
 
 Pokern und Bluffen ist ja so gar nicht mein Ding. Wundersamerweise

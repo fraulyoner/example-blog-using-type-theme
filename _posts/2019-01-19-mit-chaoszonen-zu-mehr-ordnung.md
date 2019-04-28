@@ -9,6 +9,9 @@ tags:
 redirect_from:
 - /2019/01/mit-chaoszonen-zu-mehr-ordnung-zuhause.html
 image: gestern-war-es-aufgeraumt.jpg
+excerpt: "<p>Mit expliziten Chaoszonen zu mehr Ordnung? Was im ersten Moment
+paradox klingen mag, ist eine wirklich hilfreiche Sache. Erfahre mehr darüber in
+folgendem Blog Post.</p>"
 ---
 Es kann nicht immer tippitoppi aussehen. So ist eben das Leben.
 Auch wenn ich im länger zurückliegenden

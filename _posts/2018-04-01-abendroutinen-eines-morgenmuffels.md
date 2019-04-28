@@ -11,7 +11,7 @@ redirect_from:
 image: chaos-am-morgen.jpg
 excerpt: "<p>Wenn du wie ich zu den Morgenmuffeln zählst, kann ich dir nur
 empfehlen, dir gewisse Abendroutinen anzueignen, die den nächsten Morgen
-erträglicher machen.</p>"
+erträglicher machen. Hier stelle ich dir meine Abendroutinen vor.</p>"
 ---
 
 Neulich hatte ich einen dieser seltenen Tage, da bin ich schon mit

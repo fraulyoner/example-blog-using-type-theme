@@ -10,9 +10,8 @@ redirect_from:
 image: alles-was-du-hast.jpg
 ---
 
-Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem wunderbaren Film einen ganzen
-Beitrag zu widmen. Für mich ist er einfach ein Meisterwerk. Grandios und
-unheimlich inspirierend.
+Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem grandiosen Film einen ganzen
+Beitrag zu widmen.
 
 ![Alles, was du hast, hat irgendwann dich]({{site.baseurl}}/assets/img/posts/alles-was-du-hast.jpg)
 

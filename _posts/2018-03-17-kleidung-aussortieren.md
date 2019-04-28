@@ -12,7 +12,8 @@ redirect_from:
 image: kleidung.jpg
 excerpt: "<p>Wieso trage ich eigentlich ständig die gleichen Sachen? Und warum
 besitze ich Kleidungsstücke, die fast nur im Schrank hängen? Was hat es
-mit diesen ewigen Schrankhütern auf sich?</p>"
+mit diesen ewigen Schrankhütern auf sich? Hier berichte ich von meinen
+Erkenntnissen.</p>"
 ---
 
 Während ich vor dem vollen Kleiderschrank stehe, denke ich mir:\\

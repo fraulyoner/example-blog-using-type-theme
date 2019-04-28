@@ -7,6 +7,9 @@ tags:
 - Meta
 - Minimalismus
 image: meinimalismus.jpg
+excerpt: "<p>Es ist ziemlich genau ein Jahr her, dass ich meinen Blog
+Meinimalismus ins Leben gerufen habe. Pünktlich zum ersten Blog-Geburtstag
+gibt es nun ein neues Erscheinungsbild. Und das hat auch einen guten Grund.</p>"
 ---
 
 Es ist ziemlich genau ein Jahr her, dass ich meinen Blog Meinimalismus ins

@@ -16,9 +16,9 @@ Zum 6-jährigen Bestehen seines Blogs hat Christof von
 [einfachbewusst.de](http://www.einfachbewusst.de/)
 mehrere Blogger aus den Bereichen Minimalismus und Nachhaltigkeit gefragt,
 worauf sie verzichten und warum. So sehr ich mich darüber freute, dabei sein zu
-dürfen, so ratlos war ich doch zunächst einmal bei der Frage:
+dürfen, so ratlos war ich doch zunächst.
 
-## Worauf verzichte ich eigentlich?
+## Ja, worauf verzichte ich denn eigentlich?
 
 Darauf eine Antwort zu finden, schien mir quasi
 unmöglich. Auch aufgrund der negativen Konnotation des Wörtchens

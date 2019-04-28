@@ -10,7 +10,8 @@ redirect_from:
 - /2018/03/wohin-mit-aussortierten-buchern.html
 image: buch-muell.jpg
 excerpt: "<p>Es gibt sehr viele Möglichkeiten aussortierte Bücher loszuwerden.
-Der Weg zur Mülltonne sollte wirklich die allerletzte Option sein.</p>"
+Der Weg zur Mülltonne sollte wirklich die allerletzte Option sein. Aber wohin
+sonst mit aussortierten Büchern? Das verrate ich dir hier.</p>"
 ---
 
 Es gibt sehr viele Möglichkeiten aussortierte Bücher loszuwerden.

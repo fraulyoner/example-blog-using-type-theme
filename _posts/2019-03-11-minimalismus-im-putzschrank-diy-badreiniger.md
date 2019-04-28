@@ -7,6 +7,11 @@ tags:
 - DIY
 - Nachhaltigkeit
 - Zero-Waste
+excerpt: "<p>Meine Auseinandersetzung mit dem Minimalismus hat die bei uns
+beheimatete Anzahl der Reiniger im Laufe der Zeit deutlich reduziert. Als unser
+Badreiniger dann vor einigen Wochen zur Neige ging, beschloss ich, ein
+Experiment zu wagen: Die Herstellung eines DIY Badreinigers. In diesem Blog Post
+stelle ich das Rezept dafür vor und berichte über mein Fazit.</p>"
 ---
 
 Braucht es wirklich für jeden Anwendungsfall einen speziellen Reiniger? Drölf

@@ -14,9 +14,10 @@ image: keep-life-simple.jpg
 Besitze ich weniger als 100 Dinge? Ist mein Kleiderschrank eine
 [Capsule Wardrobe?](https://en.wikipedia.org/wiki/Capsule_wardrobe) Lebe
 ich in einer Wohnung ohne jeglichen Krimskrams? All diese Fragen kann
-ich mit einem ganz klaren Nein beantworen.
+ich mit einem ganz klaren Nein beantworen. Wieso bezeichne ich mich dann dennoch
+als Minimalistin?
 
-## Also was macht mich eigentlich zur Minimalistin?
+## Was macht mich eigentlich zur Minimalistin?
 
 Der Duden formuliert den Begriff
 [Minimalismus](https://www.duden.de/suchen/dudenonline/minimalismus)

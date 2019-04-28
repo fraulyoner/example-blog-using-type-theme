@@ -7,6 +7,10 @@ tags:
 - Nachhaltigkeit
 - Zero-Waste
 - Kaufverhalten
+excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im
+Alltag angefangen. Bis dato hatte ich gedacht, so schlimm könne unser
+Lebenswandel in Sachen (Plastik-)Müll schon nicht sein. Doch dank des Artikels
+war ich dann ganz plötzlich in der Mikroplastik-Krise.</p>"
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag

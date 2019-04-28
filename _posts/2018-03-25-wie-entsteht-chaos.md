@@ -12,13 +12,12 @@ redirect_from:
 
 Wie sieht's denn hier schon wieder aus?! Hast du auch manchmal das Gefühl,
 du drehst dich nur kurz um und zack ist die Wohnung nicht mehr
-wiederzuerkennen?
+wiederzuerkennen? Wo kommt bloß diese Unordnung her?
 
-## Wo kommt bloß diese Unordnung her?
+## Taucht Unordnung tatsächlich aus dem Nichts auf?
 
-Taucht Unordnung tatsächlich aus dem Nichts auf? Es gibt mehrere
-Faktoren, die zu Chaos im Haushalt beitragen. Und nein, nicht alles kann
-man auf einen nachlässigen Partner, ein wildes Kind, einen faulen
+Es gibt mehrere Faktoren, die zu Chaos im Haushalt beitragen. Und nein, nicht
+alles kann man auf einen nachlässigen Partner, ein wildes Kind, einen faulen
 Mitbewohner oder einen unordentlichen Goldhamster schieben.
 
 ### Dinge haben keinen festen Platz
