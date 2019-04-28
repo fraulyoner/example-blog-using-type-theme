@@ -19,7 +19,14 @@
     {% endfor %}
 
     {% if sameTagCount >= site.theme_settings.related_posts_minCommon %}
-    <li><i class="fa fw fa-angle-double-right"></i> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% if post.image %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ post.image }}"/>
+        {{ post.title }}
+      </a>
+    </li>
+    {% endif %}
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= site.theme_settings.related_posts_max %}
         {% break %}

@@ -29,7 +29,7 @@ theme_settings:
 
   # Related posts
   related_posts: true
-  related_posts_max: 4
+  related_posts_max: 3
   related_posts_minCommon: 1
 
 # PAGINATION
