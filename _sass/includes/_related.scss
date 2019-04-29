@@ -14,11 +14,21 @@
   }
 
   li {
-    display: inline-block;
-    margin-right: 1em;
+    display: block;
     max-width: $post-image-width;
     vertical-align: top;
-    width: 25%;
+
+    @media (min-width: $device-xs) {
+      display: inline-block;
+      width: 25%;
+    }
+  }
+
+  li + li {
+    margin: 1em 0 0 0;
+    @media (min-width: $device-xs) {
+      margin: 0 0 0 1em;
+    }
   }
 
   img {
