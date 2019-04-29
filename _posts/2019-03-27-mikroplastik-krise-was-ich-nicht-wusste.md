@@ -7,10 +7,9 @@ tags:
 - Nachhaltigkeit
 - Zero-Waste
 - Kaufverhalten
+image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im
-Alltag angefangen. Bis dato hatte ich gedacht, so schlimm könne unser
-Lebenswandel in Sachen (Plastik-)Müll schon nicht sein. Doch dank des Artikels
-war ich dann ganz plötzlich in der Mikroplastik-Krise.</p>"
+Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise.</p>"
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag
@@ -37,6 +36,8 @@ vorgenommen:
 >OK, ich habe viel falsch gemacht, ich werde weiterhin viel falsch machen,
 >aber zumindest kann ich versuchen, einige Baustellen anzugehen, die in meiner
 >Macht liegen, statt einfach weiterzumachen wie bisher.
+
+![Wenn wir es wegwerfen, ist es nicht weg, sondern nur anderswo.]({{site.baseurl}}/assets/img/posts/wegwerfen-anderswo.jpg)
 
 ## 3 Dinge, die ich über Mikroplastik einfach nicht wusste
 
