@@ -25,7 +25,7 @@ theme_settings:
   search: true
 
   # Post navigation
-  post_navigation: true
+  post_navigation: false
 
   # Related posts
   related_posts: true
