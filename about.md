@@ -3,7 +3,7 @@ layout: page
 title: Hi, ich bin Frau Lyoner!
 ---
 
-![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/avatar.jpg){:class="avatar"}
+![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/fraulyoner.jpg){:class="avatar"}
 
 Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de). Ich
 habe diesen Blog ins Leben gerufen, um über meinen ganz persönlichen Weg zu
