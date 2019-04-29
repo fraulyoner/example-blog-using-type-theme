@@ -13,19 +13,19 @@ sogar inspirieren könnte. Ich wünsche dir viel Spaß beim Stöbern in meinem B
 <ul class="categories">
 <li>
 <a href="{{site.baseurl}}/categories/Ordnung.html">
-<img src="{{site.baseurl}}/assets/img/categories/Ordnung.jpg" title="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."/>
+<img src="{{site.baseurl}}/assets/img/categories/Ordnung.jpg" alt="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."/>
 <span>Ordnung im Haus</span>
 </a>
 </li>
 <li>
 <a href="{{site.baseurl}}/categories/Perspektive.html">
-<img src="{{site.baseurl}}/assets/img/categories/Perspektive.jpg" title="Alles hängt von unserer Perspektive ab."/>
+<img src="{{site.baseurl}}/assets/img/categories/Perspektive.jpg" alt="Alles hängt von unserer Perspektive ab."/>
 <span>Fokus im Kopf</span>
 </a>
 </li>
 <li>
 <a href="{{site.baseurl}}/categories/Nachhaltigkeit.html">
-<img src="{{site.baseurl}}/assets/img/categories/Nachhaltigkeit.jpg" title="Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl"/>
+<img src="{{site.baseurl}}/assets/img/categories/Nachhaltigkeit.jpg" alt="Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl"/>
 <span>Konsum mit Hirn</span>
 </a>
 </li>
