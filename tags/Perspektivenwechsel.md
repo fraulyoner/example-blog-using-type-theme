@@ -1,5 +1,6 @@
 ---
 layout: tag
-title: 'Perspektivenwechsel'
+title: "Perspektivenwechsel"
+subtitle: "Unsere Zufriedenheit hängt maßgeblich von unserer Perspektive ab."
 robots: noindex,follow
 ---
