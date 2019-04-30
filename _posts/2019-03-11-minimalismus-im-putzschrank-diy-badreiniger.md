@@ -7,6 +7,7 @@ tags:
 - DIY
 - Nachhaltigkeit
 - Zero-Waste
+image: diy-badreiniger-rezept.jpg
 excerpt: "<p>Meine Auseinandersetzung mit dem Minimalismus hat die bei uns
 beheimatete Anzahl der Reiniger im Laufe der Zeit deutlich reduziert. Als unser
 Badreiniger dann vor einigen Wochen zur Neige ging, beschloss ich, ein
@@ -59,6 +60,8 @@ hinzu und fertig ist der Badreiniger.
 Klar, das Spülmittel ist letztlich auch bloß ein gekaufter Reiniger - und noch
 dazu in einer Plastikflasche. Dennoch schont die geringe Menge in Summe
 Ressourcen und Geldbeutel.
+
+![Rezept für DIY Badreiniger]({{site.baseurl}}/assets/img/posts/diy-badreiniger-rezept.jpg)
 
 ### Einwandfrei
 
