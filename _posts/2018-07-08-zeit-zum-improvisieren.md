@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Kaufverhalten
-- Nachhaltigkeit
+- Upcycling
 - DIY
 redirect_from:
 - /2018/07/zeit-zum-improvisieren.html

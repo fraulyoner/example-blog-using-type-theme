@@ -4,9 +4,9 @@ title: Voll in der Mikroplastik-Krise oder 3 Dinge, die ich einfach nicht wusste
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
 - Zero-Waste
 - Kaufverhalten
+- Selbsttäuschung
 image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im
 Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise.</p>"

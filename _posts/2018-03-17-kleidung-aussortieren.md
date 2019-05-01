@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aussortieren
-- Nachhaltigkeit
 - Selbsttäuschung
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html

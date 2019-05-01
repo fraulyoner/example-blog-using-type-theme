@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: 'Nachhaltigkeit'
+title: 'Upcycling'
 robots: noindex,follow
 ---

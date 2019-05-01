@@ -4,9 +4,9 @@ title: Ist ein einfaches Leben eigentlich einfach?
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
 - Zero-Waste
 - Minimalismus
+- Achtsamkeit
 image: einfaches-leben.jpg
 ---
 

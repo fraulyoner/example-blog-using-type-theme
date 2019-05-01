@@ -6,8 +6,7 @@ categories:
 tags:
 - Kaufverhalten
 - Zero-Waste
-- Perspektivenwechsel
-- Nachhaltigkeit
+- Verpackungsfrei
 image: verpackungsfrei.jpg
 excerpt: "<p>Was haben Vorbilder, Schrödinger und verpackungsfreier Einkauf
 eigentlich miteinander zu tun?</p>"

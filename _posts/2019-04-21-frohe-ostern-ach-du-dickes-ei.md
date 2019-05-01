@@ -4,7 +4,6 @@ title: "Ostergruß von Frau Lyoner oder auch: Ach du dickes DIY-Ei!"
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
 - DIY
 image: ostereier-diy.jpg
 excerpt: "<p>Ich habe dieses Jahr meinem inneren Chaoten wieder alle Ehre gemacht.

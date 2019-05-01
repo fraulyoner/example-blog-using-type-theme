@@ -6,7 +6,6 @@ categories:
 tags:
 - Verzicht
 - Minimalismus
-- Nachhaltigkeit
 redirect_from:
 - /2019/02/worauf-ich-verzichte.html
 image: verzicht.jpg
