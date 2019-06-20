@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: 'Dan-Sha-Ri'
+title: 'DanShaRi'
 robots: noindex,follow
 ---
