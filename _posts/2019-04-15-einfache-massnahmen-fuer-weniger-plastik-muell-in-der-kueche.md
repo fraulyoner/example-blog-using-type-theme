@@ -4,7 +4,7 @@ title: 7 einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
 categories:
 - Nachhaltigkeit
 tags:
-- Zero-Waste
+- Müllvermeidung
 - Kaufverhalten
 - Verpackungsfrei
 image: weniger-verpackung-kueche.jpg

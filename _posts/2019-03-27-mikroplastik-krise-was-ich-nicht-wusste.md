@@ -4,7 +4,7 @@ title: Voll in der Mikroplastik-Krise oder 3 Dinge, die ich einfach nicht wusste
 categories:
 - Nachhaltigkeit
 tags:
-- Zero-Waste
+- Müllvermeidung
 - Kaufverhalten
 - Selbsttäuschung
 image: wegwerfen-anderswo.jpg

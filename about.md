@@ -24,7 +24,8 @@ Unordnung tatkräftige Unterstützung in Form von Ehemann, Tochter und Hund.
 
 In diesem Blog berichte ich von meinen Strategien und Erfahrungen im Kampf gegen
 Gedankenchaos und Unordnung. Außerdem setze ich mich immer mehr mit
-dem Thema [Zero-Waste]({{ site.baseurl }}/tags/Zero-Waste) auseinander und
-versuche unnötigen (Verpackungs-)Müll aus meinem Leben fernzuhalten.
+dem Thema [Müllvermeidung / Less Waste]({{ site.baseurl }}/tags/Müllvermeidung)
+auseinander und versuche unnötigen (Verpackungs-)Müll aus meinem Leben
+fernzuhalten.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}

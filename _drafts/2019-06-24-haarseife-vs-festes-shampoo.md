@@ -4,7 +4,7 @@ title: Plastikfrei im Bad – Haarseife vs. festes Shampoo
 categories:
 - Nachhaltigkeit
 tags:
-- Zero-Waste
+- Müllvermeidung
 - Verpackungsfrei
 image: mein-haar-hat-fieber.jpg
 excerpt: "<p>Haarseife und festes Shampoo sind zwei grundverschiedene Dinge,

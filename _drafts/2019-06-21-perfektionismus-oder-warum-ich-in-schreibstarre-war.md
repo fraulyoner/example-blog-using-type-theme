@@ -4,7 +4,7 @@ title: Die Sache mit dem Perfektionismus
 categories:
 - Perspektive
 tags:
-- Zero-Waste
+- Müllvermeidung
 - Perspektivenwechsel
 image: braucht-noch-jemand-gedanken.jpg
 excerpt: "<p>Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele.
@@ -26,8 +26,8 @@ meinem Rechner herum.
 In meinem Kopf traf sich ein Potpourri an überzogenen selbstanklagenden Gedanken
 und feierte eine wilde Sause:
 
-Mit welcher Berechtigung schreibe ich eigentlich über
-[Zero-Waste-Themen]({{site.baseurl }}/tags/Zero-Waste), wenn ich doch so vieles
+Mit welcher Berechtigung schreibe ich eigentlich über Themen aus dem Bereich
+[Zero Waste](https://de.wikipedia.org/wiki/Zero_Waste), wenn ich doch so vieles
 (noch) falsch mache und einfach grundsätzlich und in jeder Lebenslage ein super
 inkonsequenter Mensch bin? Außerdem habe ich im Vergleich zu all den Profis, die
 sich im Netz tummeln, doch eigentlich null Ahnung. Müsste ich da nicht eher
@@ -62,6 +62,6 @@ so. Und ich schreibe derweil in Ruhe meine Beiträge weiter, in Ordnung?
 ### Denn ok ist echt ok. Und gut ist wirklich gut genug.
 
 Aber damit du dich etwas besser entspannen kannst, komme ich dir ein klein wenig
-entgegen und spreche ab jetzt einfach von Less-Waste und Müllvermeidung statt
-von Zero-Waste. Das hilft uns beiden, ein wenig aufzuatmen, denkst du nicht
-auch?
+entgegen und spreche ab jetzt einfach von Less Waste und
+[Müllvermeidung]({{site.baseurl }}/tags/Müllvermeidung) statt von Zero Waste.
+Das hilft uns beiden, ein wenig aufzuatmen, denkst du nicht auch?

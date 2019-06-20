@@ -4,7 +4,7 @@ title: Ist ein einfaches Leben eigentlich einfach?
 categories:
 - Nachhaltigkeit
 tags:
-- Zero-Waste
+- Müllvermeidung
 - Minimalismus
 - Achtsamkeit
 image: einfaches-leben.jpg
@@ -47,10 +47,11 @@ gelassen habe, die mir nicht gut taten.
 **Minimalismus wirkt im Äußeren (Dinge) wie im Inneren (Geisteshaltung)**
 
 Auch mein Konsumverhalten ist mit der Zeit deutlich kritischer geworden. Dass
-ich mich mittlerweile verstärkt für das Thema Zero Waste interessiere, ist
-eigentlich eine logische Konsequenz des ganzen Prozesses und nicht wirklich
-überraschend. Denn auch bei diesem Thema geht es letztendlich um das Weniger,
-wenn auch mit einem anderen Schwerpunkt.
+ich mich mittlerweile verstärkt für das Thema
+[Zero Waste](https://de.wikipedia.org/wiki/Zero_Waste)
+interessiere, ist eigentlich eine logische Konsequenz des ganzen Prozesses und
+nicht wirklich überraschend. Denn auch bei diesem Thema geht es letztendlich um
+das Weniger, wenn auch mit einem anderen Schwerpunkt.
 
 Doch genau hier, bei den Themen Nachhaltigkeit und Müllvermeidung, muss ich
 ehrlich gestehen: Das finde ich echt alles andere als einfach. So viele mögliche

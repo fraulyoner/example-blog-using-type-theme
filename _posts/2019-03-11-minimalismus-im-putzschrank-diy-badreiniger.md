@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - DIY
-- Zero-Waste
+- Müllvermeidung
 image: diy-badreiniger-rezept.jpg
 excerpt: "<p>Meine Auseinandersetzung mit dem Minimalismus hat die bei uns
 beheimatete Anzahl der Reiniger im Laufe der Zeit deutlich reduziert. Als unser
