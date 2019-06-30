@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Plastikfrei im Bad – Haarseife vs. festes Shampoo
+title: Weniger Plastik im Bad – Haarseife vs. festes Shampoo
 categories:
 - Nachhaltigkeit
 tags:
 - Müllvermeidung
 - Verpackungsfrei
 image: mein-haar-hat-fieber.jpg
-excerpt: "<p>Haarseife und festes Shampoo sind zwei grundverschiedene Dinge,
-auch wenn sie wie Synonyme klingen. Bis mir das bewusst wurde, hat es jedoch
-ein klein wenig gedauert...</p>"
+excerpt: "<p>Haarseife und festes Shampoo? Wo is'n da bitte der Unterschied?</p>"
 ---
 
 Meine haarige Odyssee begann schon vor etlichen Jahren. Aufgrund von ständigen
 Problemen mit der Kopfhaut und diversen Lesestunden im
 [Langhaarnetzwerk](http://www.langhaarnetzwerk.de) bin ich vor gut zehn Jahren
-von konventionellen Shampoos auf Silikonfrei umgestiegen.
+von konventionellen Shampoos auf silikonfrei umgestiegen.
 
 ## Meine haarige Odyssee
 
@@ -63,8 +61,7 @@ Eine saure Rinse ist kurz gesagt eine Mischung aus Wasser und z.B. Apfelessig
 oder Zitronensäure, die nach der Haarwäsche als Spülung über die Haare
 geschüttet und im Normalfall auch nicht ausgewaschen wird. Ich habe saure Rinsen
 schon in der Vergangenheit ausprobiert und muss gestehen, ich kann mich
-dauerhaft echt nicht damit anfreunden. Ich bin einfach zu faul für so einen
-Scheiß. Auch wenn es in dem Fall echt wirksamer Scheiß ist.
+dauerhaft echt nicht damit anfreunden. Ich bin einfach zu faul für sowas.
 
 ### Experiment gescheitert
 
@@ -84,9 +81,8 @@ letzten Versuch mit einem festen Shampoo zu starten. Mir zig verschiedene
 Produkte zuzulegen, von denen am Ende vielleicht keines passen würde, war für
 mich keine Option.
 
-Relativ spontan, auf dem Rückweg vom Spielplatzbesuch bei aufziehendem Gewitter,
-suchte ich Schutz im [dm](https://www.dm.de) und kaufte mir dort
-kurzentschlossen das [feste Shampoo von Alverde](https://www.dm.de/alverde-naturkosmetik-festes-shampoo-mit-mandarine-basilikum-p4058172009013.html).
+Kurzentschlossen entschied ich mich bei meinem nächsten Einkauf im
+[dm](https://www.dm.de) für das [feste Shampoo von Alverde](https://www.dm.de/alverde-naturkosmetik-festes-shampoo-mit-mandarine-basilikum-p4058172009013.html).
 
 Schon nach der ersten Haarwäsche war ich begeistert. So viel schöner Schaum, das
 Gefühl sauberer Haare trotz nur eines Waschgangs und bisher (toi toi toi)
