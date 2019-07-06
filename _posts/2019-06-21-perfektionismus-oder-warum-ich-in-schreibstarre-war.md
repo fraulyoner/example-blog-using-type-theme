@@ -6,7 +6,7 @@ categories:
 tags:
 - Müllvermeidung
 - Perspektivenwechsel
-image: braucht-noch-jemand-gedanken.jpg
+image: zero-waste-perfekt-unperfekt.jpg
 excerpt: "<p>Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele.
 Und in Verbindung mit Perfektionismus bekommt man dann auch mal eine nette
 Schreibblockade.</p>"
@@ -65,3 +65,5 @@ Aber damit du dich etwas besser entspannen kannst, komme ich dir ein klein wenig
 entgegen und spreche ab jetzt einfach von Less Waste und
 [Müllvermeidung]({{site.baseurl }}/tags/Müllvermeidung) statt von Zero Waste.
 Das hilft uns beiden, ein wenig aufzuatmen, denkst du nicht auch?
+
+![Es braucht nicht eine Handvoll Leute, die Zero Waste perfekt umsetzen, sondern eine Masse an Menschen, die umdenken und viele kleine und große Dinge unperfekt machen.]({{site.baseurl}}/assets/img/posts/zero-waste-perfekt-unperfekt.jpg)
