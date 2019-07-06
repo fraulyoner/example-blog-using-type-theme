@@ -7,7 +7,7 @@ tags:
 - Müllvermeidung
 - Verpackungsfrei
 - DIY
-image: xy.jpg
+image: diy-mandelmilch.jpg
 excerpt: "<p>Mandelmilch selber machen? Mit diesem simplen Rezept bekomme
 sogar ich das hin.</p>"
 ---
@@ -16,19 +16,21 @@ Kaffee ohne Milch ist für mich unvorstellbar. Aber zumindest für andere
 Anwendungsfälle, z.B. für's Müsli, versuche ich momentan aus diversen Gründen
 meinen Milchkonsum etwas zu reduzieren.
 
-Die Milch kaufen wir seit einigen Monaten ja nur noch in der
-Mehrweg-Glasflasche. Die sogenannten Milchdrinks (Hafer, Mandel, ...) habe ich
-bisher jedoch nur im Tetrapak gesehen, also dachte ich mir:
-Das muss doch irgendwie auch selbst machbar sein.
+Milch kaufen wir seit einigen Monaten ja nur noch in der Mehrweg-Glasflasche.
+Die sogenannten Milchdrinks (Hafer, Mandel und Co.) habe ich bisher allerdings
+nur im Tetrapak gesehen. Also dachte ich mir: Das muss doch irgendwie auch
+selbst machbar sein.
 
-Ich habe einige Rezepte gefunden, traute unserem Standmixer jedoch nicht zu,
-ganze Mandeln klein zu kriegen. Und dann stieß ich auf Instagram bei @XY ganz
-zufällig auf ein super einfaches – ich bin fast geneigt zu sagen
-idiotensicheres – Rezept für Mandelmilch.
+Ich suchte nach Rezepten und wurde auch fündig. Allerdings zweifelte ich daran,
+ob unser Standmixer mit ganzen Mandeln fertigwerden würde... Und dann stieß ich
+ein paar Tage später ganz zufällig auf Instagram bei
+[@projekt.plastikfrei](https://www.instagram.com/p/Bvev0LFHRFD/?utm_source=ig_web_copy_link)
+auf ein super einfaches – ich bin fast geneigt zu sagen idiotensicheres – Rezept
+für Mandelmilch.
 
 ![Rezept DIY Mandelmilch]({{site.baseurl}}/assets/img/posts/diy-mandelmilch.jpg)
 
-## Rezept DIY Mandelmilch
+## Rezept
 
 Es braucht gerade einmal drei Zutaten:
 
@@ -36,5 +38,5 @@ Es braucht gerade einmal drei Zutaten:
 * 2-3 EL weißes Mandelmus
 * Eine Prise Salz
 
-Ab in den Mixer damit und fertig. Das kriegt auch der altertümlichste,
-schwächste Mixer wie unserer hin. Ich bin begeistert.
+Das Wasser in den Standmixer füllen, Mandelmus und Salz hinzufügen, kurz
+durchmixen lassen und fertig. Einfacher geht's kaum.
