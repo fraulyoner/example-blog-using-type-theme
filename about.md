@@ -18,9 +18,7 @@ auf das Wesentliche fokussieren und das [alltägliche Chaos in Haus und Kopf bä
 
 Ich bin grundsätzlich spät dran, reiße gerne mehrere Baustellen gleichzeitig auf
 und werde ständig von [neuen Einfällen überflutet]({{ site.baseurl }}{% link _posts/2018-09-25-wenn-man-alles-gleichzeitig-tut.md %}), wodurch ich die Neigung habe, mich schnell zu
-verzetteln. Manchmal fühle ich mich wie ein regelrechter Chaosmagnet. Während
-ich mir mein Gedankenchaos ganz allein erschaffe, habe ich bei der häuslichen
-Unordnung tatkräftige Unterstützung in Form von Ehemann, Tochter und Hund.
+verzetteln. Manchmal fühle ich mich wie ein regelrechter Chaosmagnet.
 
 In diesem Blog berichte ich von meinen Strategien und Erfahrungen im Kampf gegen
 Gedankenchaos und Unordnung. Außerdem setze ich mich immer mehr mit
