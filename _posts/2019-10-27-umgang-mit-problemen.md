@@ -19,23 +19,25 @@ ehrlich, wer hat sich nicht schon über Kleinigkeiten geärgert? Es ist ziemlich
 menschlich, wenn die Nicht-Erfüllung einer Erwartung bzw. eines Bedürfnisses in
 Gefühlen von Ärger resultiert.
 
-Entscheidend ist dabei jedoch: Wie sehr gebe ich mich dem Ärger aufgrund des
-vermeintlichen Problems hin?
+Entscheidend ist dabei jedoch:
+Wie sehr gebe ich mich dem Ärger aufgrund des (vermeintlichen) Problems hin?
+Welche Bewertung messe ich einer Situation bei, die nicht so verläuft, wie ich
+sie erwartet hatte?
 
-> Das Problem ist nicht das Problem.
+> Das Problem ist nicht das Problem.<br/>
 > Das Problem ist deine Einstellung zum Problem.<br/>
-> – Aus "Fluch der Karibik"
+> – Captain Jack Sparrow in "Fluch der Karibik"
 
 In diesem Blog Post findest du drei Ansätze, die ich persönlich als hilfreich
 empfinde, um mit Ärger über kleine und große Probleme des Alltags besser umgehen
 zu können. Hast du Anmerkungen, Fragen oder weitere Ansätze? Ich freue mich über
-deine Anregungen!
+deine Anregungen.
 
-## Ansatz #1: Ist es tatsächlich so schlimm?
+## Ansatz #1: Ist es tatsächlich so gravierend?
 
 Ich habe die Erfahrung gemacht, dass es hilfreich sein kann, gedanklich ein paar
 Schritte zurückzutreten und das Problem in einem größeren Zusammenhang zu
-betrachten. Dabei hilft die Frage:
+betrachten.
 
 > Ask yourself this question:
 > Will this matter a year from now?<br/>
@@ -61,7 +63,7 @@ gut zu arrangieren.
 
 Bedenke außerdem: Nicht jeder Kampf lohnt sich, selbst wenn er aussichtsreich
 erscheinen mag. Wäge ab, was dir wirklich wichtig ist und ob in manchen Fällen
-eine gelassene Haltung nicht mehr wert ist.
+eine Haltung gelassener Akzeptanz nicht mehr wert ist.
 
 ## Ansatz #3: Was steckt wirklich dahinter?
 
@@ -78,4 +80,4 @@ Das eigentliche Problem wird dann nur verschleiert.
 Auch hier kann der Schritt zurück helfen: Ärgert mich das gerade wirklich? Oder
 steckt eigentlich etwas anderes dahinter? Manchmal ist diese Frage, schnell und
 einfach beantwortet. Manchmal erfordert es tieferes Nachforschen, welches
-Bedürfnis gerade nicht ausreichend erfüllt sind.
+Bedürfnis gerade nicht ausreichend erfüllt ist.
