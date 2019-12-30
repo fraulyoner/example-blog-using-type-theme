@@ -6,7 +6,7 @@ categories:
 tags:
 - Perspektivenwechsel
 - Zufriedenheit
-- Achtsamkeit
+- Reflexion
 image: will_this_matter_a_year_from_now.jpg
 excerpt: "<p>In diesem Blog Post findest du drei Ansätze, die ich persönlich als
 hilfreich empfinde, um mit Ärger über kleine und große Probleme des Alltags

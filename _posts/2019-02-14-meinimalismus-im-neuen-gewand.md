@@ -2,9 +2,8 @@
 layout: post
 title: Meinimalismus im neuen Gewand
 categories:
-- Meta
+- Perspektive
 tags:
-- Meta
 - Minimalismus
 image: meinimalismus.jpg
 excerpt: "<p>Es ist ziemlich genau ein Jahr her, dass ich meinen Blog
