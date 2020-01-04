@@ -5,7 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - Müllvermeidung
-- Upcycling
 image: geschenke-in-zeitungspapier.jpg
 ---
 
