@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- Aussortieren
 - DanShaRi
 redirect_from:
 - /2018/06/aufraumen-mit-dan-sha-ri-teil-2.html

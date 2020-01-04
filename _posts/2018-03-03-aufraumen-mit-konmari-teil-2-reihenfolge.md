@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- Aussortieren
 - KonMari
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
