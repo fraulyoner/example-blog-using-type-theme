@@ -324,10 +324,11 @@ Person, etwaige Kontakt- sowie Websiteinformationen als auch die
 inhaltlichen Angaben, werden von uns bis zum Widerspruch der Nutzer
 dauerhaft gespeichert.
 
-Da dies eine statische Webseite ist, verwenden wir [Simple Form](https://getsimpleform.com)
+Da dies eine statische Webseite ist, verwenden wir [Formspree](https://formspree.io)
 für unsere Formulare. Bei der Verwendung unseres Formulars zum Erstellen eines
 neuen Kommentars an einem Blog Artikel werden daher die von Ihnen eingegebenen
-Daten vom externen Anbieter [Simple Form](https://getsimpleform.com) verarbeitet und unterliegen dessen Datenschutzerklärung.
+Daten vom externen Anbieter [Formspree](https://formspree.io) verarbeitet und
+unterliegen dessen Datenschutzerklärung.
 
 ### Hosting und E-Mail-Versand {#dsg-hostingprovider}
 

@@ -1,6 +1,4 @@
-<form action="https://getsimpleform.com/messages?form_api_token=ed40647e2c75ba24bb35187658be74a9" method="POST">
-<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/{{ include.redirect }}' />
+<form action="https://formspree.io/mwkvzdea" method="POST">
 <input type="hidden" name="post_id" value="{{page.id}}" />
 <div class="comment-form-element">
   <label for="name">Name *</label>
@@ -8,11 +6,11 @@
 </div>
 <div class="comment-form-element">
   <label for="email">E-Mail *</label>
-  <input type="text" id="email" name="email" required />
+  <input type="text" id="email" name="_replyto" required />
 </div>
 <div class="comment-form-element">
   <label for="link">Website</label>
-  <input type="text" id="link" name="link" />
+  <input type="text" id="link" name="url" />
 </div>
 <div class="comment-form-element">
   <label for="message">Nachricht *</label>
@@ -21,8 +19,7 @@
 <input class="button button-inverse" type="submit" name="submit" value="Absenden" />
 </form>
 <p class="sticky"><small>
-Hinweis: Da dieser Blog eine mit <a href="https://jekyllrb.com/">Jekyll</a>
-erstellte statische Website ist, wird
-<a href="https://getsimpleform.com">Simple Form</a> verwendet, um die
-eingegebenen Formulardaten an mich zu übermitteln.
+Hinweis: Da dieser Blog eine mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+erstellte statische Website ist, wird <a href="https://formspree.io" target="_blank">Formspree</a>
+verwendet, um die eingegebenen Formulardaten an mich zu übermitteln.
 </small></p>
