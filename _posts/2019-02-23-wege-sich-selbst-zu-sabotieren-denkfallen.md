@@ -4,7 +4,7 @@ title: Denkfallen auf dem Weg zur Veränderung – 3 Wege sich selbst zu sabotie
 categories:
 - Perspektive
 tags:
-- Kaufverhalten
+- Konsum
 - Perspektivenwechsel
 - Selbsttäuschung
 image: motivation-vs-habit.jpg

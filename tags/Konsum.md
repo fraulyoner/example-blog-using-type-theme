@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: 'Kaufverhalten'
+title: 'Konsum'
 robots: noindex,follow
 ---

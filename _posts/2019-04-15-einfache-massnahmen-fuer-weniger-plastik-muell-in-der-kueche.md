@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Müllvermeidung
-- Kaufverhalten
+- Konsum
 - Verpackungsfrei
 image: weniger-verpackung-kueche.jpg
 excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich 7

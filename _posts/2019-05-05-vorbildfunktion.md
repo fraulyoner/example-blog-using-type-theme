@@ -4,7 +4,7 @@ title: Unterschätze niemals deine Vorbildfunktion!
 categories:
 - Nachhaltigkeit
 tags:
-- Kaufverhalten
+- Konsum
 - Müllvermeidung
 - Verpackungsfrei
 image: verpackungsfrei.jpg

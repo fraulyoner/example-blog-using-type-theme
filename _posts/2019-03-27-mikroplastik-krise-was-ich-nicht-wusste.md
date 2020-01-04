@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Müllvermeidung
-- Kaufverhalten
+- Konsum
 - Selbsttäuschung
 image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im
