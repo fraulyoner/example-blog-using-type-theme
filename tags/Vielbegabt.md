@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: 'Multitalent'
+title: 'Vielbegabt'
 robots: noindex,follow
 ---
