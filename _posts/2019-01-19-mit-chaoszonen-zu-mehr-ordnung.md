@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- Routinen
 redirect_from:
 - /2019/01/mit-chaoszonen-zu-mehr-ordnung-zuhause.html
 image: gestern-war-es-aufgeraumt.jpg

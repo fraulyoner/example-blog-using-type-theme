@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- Routinen
 redirect_from:
 - /2018/04/abendroutinen-eines-morgenmuffels.html
 image: chaos-am-morgen.jpg

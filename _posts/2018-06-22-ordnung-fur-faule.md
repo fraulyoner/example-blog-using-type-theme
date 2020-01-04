@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- Routinen
 redirect_from:
 - /2018/06/ordnung-fur-faule.html
 image: wo-gibts-nichts-zu-tun.jpg
