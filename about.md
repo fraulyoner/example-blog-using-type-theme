@@ -5,25 +5,33 @@ title: Hi, ich bin Frau Lyoner!
 
 ![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/fraulyoner.jpg){:class="avatar"}
 
-Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de). Ich
-habe diesen Blog ins Leben gerufen, um über meinen ganz persönlichen Weg zu
-einem minimalistischen Leben, kurz Meinimalismus, zu schreiben.
+Hi, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
+In diesem Blog schreibe ich über meinen ganz persönlichen Weg zu einem
+minimalistischen Leben, kurz Meinimalismus.
 
-Ich strebe weder ein völlig spartanisches Leben an, noch möchte ich mir ein
-bestimmtes Limit von Besitztümern setzen. Mein Ziel ist es, Dinge aus meinem
-Leben fernzuhalten, die ich nicht brauche und/oder nicht mag. Ich möchte mich
-auf das Wesentliche fokussieren und das [alltägliche Chaos in Haus und Kopf bändigen]({{ site.baseurl }}{% link _posts/2018-03-07-vorteile-eines-entrumpelten-haushalts.md %}).
+Mein Wunsch ist es, möglichst alles aus meinem Leben fernzuhalten, was ich nicht
+brauche und/oder nicht mag. Ich möchte mich auf das Wesentliche fokussieren und
+mein inneres und äußeres Chaos bändigen.
 
 ![Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl]({{site.baseurl}}/assets/img/categories/Nachhaltigkeit.jpg){:class="about"}
 
-Ich bin grundsätzlich spät dran, reiße gerne mehrere Baustellen gleichzeitig auf
-und werde ständig von [neuen Einfällen überflutet]({{ site.baseurl }}{% link _posts/2018-09-25-wenn-man-alles-gleichzeitig-tut.md %}), wodurch ich die Neigung habe, mich schnell zu
-verzetteln. Manchmal fühle ich mich wie ein regelrechter Chaosmagnet.
+Als vielbegabter Mensch aka [Scanner-Persönlichkeit]({{site.baseurl}}/tags/Scannerpers%C3%B6nlichkeit)
+werde ich ständig von neuen Einfällen überflutet, wodurch ich dazu neige, mich
+leicht zu verzetteln. Minimalismus hilft mir dabei, Prioritäten zu setzen und
+leichter Entscheidungen zu treffen.
 
-In diesem Blog berichte ich von meinen Strategien und Erfahrungen im Kampf gegen
-Gedankenchaos und Unordnung. Außerdem setze ich mich immer mehr mit
-dem Thema [Müllvermeidung / Less Waste]({{ site.baseurl }}/tags/Müllvermeidung)
-auseinander und versuche unnötigen (Verpackungs-)Müll aus meinem Leben
-fernzuhalten.
+In diesem Blog berichte ich über selbst erprobte Strategien und Erfahrungen, um
+unnötigen Ballast loszulassen und Gedankenchaos in Fokus zu wandeln:
+
+* [Ordnung im Haus]({{site.baseurl}}/categories/Ordnung.html)
+* [Fokus im Kopf]({{site.baseurl}}/categories/Perspektive.html)
+* [Konsum mit Hirn]({{site.baseurl}}/categories/Nachhaltigkeit.html)
+
+Letztendlich geht es immer um eine ganz grundlegende Frage:
+
+**Was ist mir wirklich wichtig im Leben und was nicht?**
+
+Ich würde mich freuen, wenn du hier Denkanstöße findest, die dich deiner
+individuellen Antwort auf diese Frage näher bringen.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
