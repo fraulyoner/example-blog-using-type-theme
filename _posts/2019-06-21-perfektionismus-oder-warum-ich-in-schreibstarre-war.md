@@ -4,7 +4,7 @@ title: Die Sache mit dem Perfektionismus
 categories:
 - Perspektive
 tags:
-- Müllvermeidung
+- Less-Waste
 - Perspektivenwechsel
 image: zero-waste-perfekt-unperfekt.jpg
 excerpt: "<p>Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele.
@@ -63,7 +63,7 @@ so. Und ich schreibe derweil in Ruhe meine Beiträge weiter, in Ordnung?
 
 Aber damit du dich etwas besser entspannen kannst, komme ich dir ein klein wenig
 entgegen und spreche ab jetzt einfach von Less Waste und
-[Müllvermeidung]({{site.baseurl }}/tags/Müllvermeidung) statt von Zero Waste.
+[Müllvermeidung]({{site.baseurl }}/tags/Less-Waste) statt von Zero Waste.
 Das hilft uns beiden, ein wenig aufzuatmen, denkst du nicht auch?
 
 ![Es braucht nicht eine Handvoll Leute, die Zero Waste perfekt umsetzen, sondern eine Masse an Menschen, die umdenken und viele kleine und große Dinge unperfekt machen.]({{site.baseurl}}/assets/img/posts/zero-waste-perfekt-unperfekt.jpg)

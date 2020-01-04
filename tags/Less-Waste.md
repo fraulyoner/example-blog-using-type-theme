@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "Müllvermeidung"
+title: "Less-Waste"
 robots: noindex,follow
 ---
