@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
-- Zufriedenheit
 - Reflexion
 image: will_this_matter_a_year_from_now.jpg
 excerpt: "<p>In diesem Blog Post findest du drei Ansätze, die ich persönlich als
