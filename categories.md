@@ -3,12 +3,10 @@ layout: page
 title: Themen
 ---
 
-Möchtest du dauerhaft Ordnung in dein Leben bringen? Willst du dich auf das
-Wesentliche fokussieren und mehr Achtsamkeit in deinem Leben etablieren? Machst
-du dir Gedanken um deinen Konsum und das Thema Nachhaltigkeit?
-
-Dann findest du hier vielleicht etwas, was dich interessieren und bestenfalls
-sogar inspirieren könnte. Ich wünsche dir viel Spaß beim Stöbern in meinem Blog!
+In diesem Blog setze ich mich mit dem vielfältigen Thema Minimalismus
+auseinander und schreibe über allerlei Strategien, um unnötigen Ballast
+loszulassen und das innere und äußere Chaos zu bändigen. Ich wünsche dir viel
+Spaß beim Stöbern in meinen Beiträgen.
 
 <ul class="categories">
 <li>
