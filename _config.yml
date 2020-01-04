@@ -7,8 +7,11 @@ theme_settings:
   # Meta
   title: meinimalismus
   favicon: assets/favicon.ico
-  description: "Blog über Strategien und Erfahrungen im Kampf gegen das Chaos in
-  Haus und Kopf: Vom Entrümpeln, Aussortieren, Ordnung schaffen und Fokus setzen." #used by search engines
+  description: "Blog zum Thema Minimalismus und Bewusstheit:
+  Ordnung im Haus, Fokus im Kopf, Konsum mit Hirn.
+  Ob Reduzierung von Gedankenchaos, Unordnung oder Müll, hier gibt es allerlei
+  Strategien, um unnötigen Ballast loszulassen, Prioritäten zu setzen und das
+  innere und äußere Chaos zu bändigen." #used by search engines
   image: "assets/img/logo.jpg"
 
   # Header text
