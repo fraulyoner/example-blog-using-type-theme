@@ -4,3 +4,4 @@
 .sass-cache
 _site
 Gemfile.lock
+mail_comment_template.txt
