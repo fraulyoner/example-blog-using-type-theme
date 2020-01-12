@@ -66,7 +66,7 @@ ich mit einem kleinen Experiment herausfinden.
 
 **Mein Freund und Helfer:** Ein Umzugskarton.
 
-**Mein Ziel:** Sowas wie eine Art Capsule Wardrobe. Oder zumindest mehr Klarheit und
+**Mein Ziel:** Sowas wie eine Art [Capsule Wardrobe](https://en.m.wikipedia.org/wiki/Capsule_wardrobe). Oder zumindest mehr Klarheit und
 weniger Schrankhüter.
 
 ### Schritt #1: Kleiderschrank ausleeren.
