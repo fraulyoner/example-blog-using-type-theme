@@ -39,7 +39,7 @@ Diese doch leicht radikale Form des Selbstversuchs kann ich mir in unserem
 ich mir: Wieso nicht eine milde Form dieses Selbstversuchs auf meinen
 Kleiderschrank anwenden?
 
-### Kontinuerliches Lernen durch Leeren
+### Kontinuierliches Lernen durch Leeren
 
 Schon etliche Male habe ich meine [Kleidung aussortiert]({{ site.baseurl }}{% link _posts/2018-03-17-kleidung-aussortieren.md %}).
 Mit jedem Mal wurde ich schlauer, was meine Fehlkäufe und Selbsttäuschungen
