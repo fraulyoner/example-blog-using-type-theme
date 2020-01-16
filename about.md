@@ -29,7 +29,7 @@ unnötigen Ballast loszulassen und Gedankenchaos in Fokus zu wandeln:
 
 Letztendlich geht es immer um eine ganz grundlegende Frage:
 
-**Was ist mir wirklich wichtig im Leben und was nicht?**
+**Was ist mir wirklich wichtig?**
 
 Ich würde mich freuen, wenn du hier Denkanstöße findest, die dich deiner
 individuellen Antwort auf diese Frage näher bringen.
