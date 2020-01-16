@@ -7,6 +7,9 @@ tags:
 - Aufräumen
 - Minimalismus
 image: ein-voller-kleiderschrank-und-nichts-zum-anziehen.jpg
+excerpt: "<p>Hand auf’s Herz – trägst du alle deine Kleidungsstücke regelmäßig?
+Ich jedenfalls nicht. Daher habe ich vor einigen Tagen einen kleinen
+Selbstversuch gestartet.</p>"
 ---
 
 Hand auf’s Herz – trägst du alle deine Kleidungsstücke regelmäßig? Ich
