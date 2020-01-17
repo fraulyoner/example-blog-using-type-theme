@@ -60,7 +60,7 @@ Oder um es mit den Worten von [Dan Sha Ri]({{ site.baseurl }}{% link _posts/2018
 
 > Dan Sha Ri hat eine Gesellschaft zum Ziel, in der die Dinge dort sind, wo sie
 > gebraucht werden.<br/>
-> – aus dem Buch "Dan Sha Ri" von Hideko Yamashita
+> <small>– aus dem Buch "Dan Sha Ri" von Hideko Yamashita</small>
 
 ## Experiment Minimalistischer Kleiderschrank
 

@@ -24,7 +24,7 @@ sie erwartet hatte?
 
 > Das Problem ist nicht das Problem.<br/>
 > Das Problem ist deine Einstellung zum Problem.<br/>
-> – Captain Jack Sparrow in "Fluch der Karibik"
+> <small>– Captain Jack Sparrow in "Fluch der Karibik"</small>
 
 In diesem Blog Post findest du drei Ansätze, die ich persönlich als hilfreich
 empfinde, um mit Ärger über kleine und große Probleme des Alltags besser umgehen
@@ -39,7 +39,7 @@ betrachten.
 
 > Ask yourself this question:
 > Will this matter a year from now?<br/>
-> – Richard Carlson
+> <small>– Richard Carlson</small>
 
 Ganz ehrlich, nur ganz selten ist die Antwort eine andere als "Nein". Wieso also
 Energie für den Ärger vergeuden? Ist es das wirklich wert?
@@ -54,7 +54,7 @@ Kampf gegen Windmühlen vergeuden?
 
 > Wenn du ein Problem hast, versuche es zu lösen.
 > Kannst du es nicht lösen, dann mach kein Problem daraus.<br/>
-> – Buddha
+> <small>– Buddha</small>
 
 Verändere, was in deiner Macht steht, und versuche, dich mit dem Rest möglichst
 gut zu arrangieren.
@@ -69,7 +69,7 @@ Kennst du den Begriff "hangry"? Er beschreibt die Mischung aus "angry" und
 "hungry". Ich persönlich kenne diesen Zustand leider nur zu gut...
 
 > I'm sorry for what I said when I was hungry.<br/>
-> – Ein bekannter Postkartenspruch
+> <small>– Ein bekannter Postkartenspruch</small>
 
 Sind Grundbedürfnisse wie Nahrungsaufnahme, Schlaf oder Schmerzfreiheit nicht
 erfüllt, kann selbst eine Nichtigkeit leicht zur emotionalen Explosion führen.
