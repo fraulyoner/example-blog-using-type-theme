@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "Less-Waste"
+title: 'Less-Waste'
 robots: noindex,follow
 ---
