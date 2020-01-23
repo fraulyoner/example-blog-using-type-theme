@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
+- Perfektionismus
 image: danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg
 excerpt: "<p>Wann hast du das letzte Mal etwas zum ersten Mal gemacht oder
 etwas begonnen, das du noch nicht (gut) kannst? Durch das Handlettering habe ich
