@@ -30,7 +30,7 @@ erkennt, welche Kaskade an Veränderungen sie eigentlich ausgelöst haben. Ich b
 wirklich dankbar für all die Gelegenheiten, die teilweise ganz unerwartet
 spannende Impulse in mein Leben gebracht haben.
 
-[![Danken ist eine Liebeserklärung an das Leben – Irina Rauthmann]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg)]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg.jpg)
+[![Danken ist eine Liebeserklärung an das Leben – Irina Rauthmann]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg)]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg)
 
 ### Vom ganz spontanen Sketch Note Workshop...
 
