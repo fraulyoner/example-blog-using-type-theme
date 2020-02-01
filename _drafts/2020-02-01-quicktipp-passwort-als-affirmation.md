@@ -18,14 +18,14 @@ regelmäßig wechseln und solltest sie nicht mit Fremden tauschen.<br/>
 ## Passwörter als Affirmation nutzen
 
 Man kann Passwort-Strategien und den Ändere-Dein-Passwort-Tag sicherlich
-kontrovers diskutieren, vgl. zum Beispiel den [Heise Artikel von 2018](https://www.heise.de/newsticker/meldung/Aendere-dein-Passwort-Tag-Lass-es-doch-einfach-bleiben-3956127.html).
+kontrovers diskutieren (vgl. zum Beispiel den [Heise Artikel von 2018](https://www.heise.de/newsticker/meldung/Aendere-dein-Passwort-Tag-Lass-es-doch-einfach-bleiben-3956127.html)).
 Das habe ich allerdings nicht vor. Mir geht es in diesem Blog Post um etwas, das
 nur am Rande mit der Sicherheit von Passwörtern zu tun hat.
 
 ### Was ist ein gutes Passwort?
 
-Dass Geburtsdaten, Namen oder die Zahlenreihe 1234 als Passwort eher nicht so zu
-empfehlen sind, ist jetzt keine aufregende Neuigkeit. Eine ganz okay-ishe
+Dass Geburtsdaten, Namen oder eine Zahlenreihe wie 1234 als Passwort eher nicht
+so zu empfehlen sind, ist jetzt keine aufregende Neuigkeit. Eine ganz okay-ishe
 Passwort-Strategie ist es, auf eine Abfolge unterschiedlichster Zeichen zu
 setzen, die mithilfe eines Merksatzes im Kopf behalten werden kann.
 
@@ -44,7 +44,7 @@ Wenn du mehr über Affirmationen wissen möchtest, empfehle ich dir zum Beispiel
 folgenden Link:<br/>
 [Affirmationen – ein praktischer Weg zu Wachstum, Veränderung und Heilung](https://zeitzuleben.de/affirmationen-ein-praktischer-weg-zu-wachstum-veranderung-und-heilung/)
 
-Dort habe ich auch folgende **Definition** für den Begriff Affirmation gefunden:
+Von dort habe ich auch folgende **Definition** für den Begriff Affirmation:
 
 >Eine Affirmation ist ein selbstbejahender Satz, den wir uns selbst wieder und wieder sagen, um unsere Gedanken umzuprogrammieren.
 
