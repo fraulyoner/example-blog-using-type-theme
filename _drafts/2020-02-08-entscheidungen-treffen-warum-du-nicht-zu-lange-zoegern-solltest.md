@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Entscheidungen
-image: meinimalismus.jpg
+image: wer-keine-entscheidungen-trifft-wird-getroffen.jpg
 excerpt: "<p>Wieso fallen uns manche Entscheidungen so schwer? Und warum ist es
 eher nicht so ratsam, Entscheidungen zu lange hinauszuzögern?</p>"
 ---
@@ -56,7 +56,7 @@ Ordnung sein. Diese Vorgehensweise birgt aber nun mal ganz klar das Risiko, dass
 sich Möglichkeiten in Luft auflösen oder jemand anderes für uns Entscheidungen
 trifft, die uns am Ende nicht unbedingt gefallen.
 
-> Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.
+[![Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.]({{site.baseurl}}/assets/img/posts/wer-keine-entscheidungen-trifft-wird-getroffen.jpg)]({{site.baseurl}}/assets/img/posts/wer-keine-entscheidungen-trifft-wird-getroffen.jpg)
 
 ### Einfach mal machen, könnte ja gut werden
 
