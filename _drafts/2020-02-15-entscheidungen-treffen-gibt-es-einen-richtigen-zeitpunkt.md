@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt gibt
+title: Entscheidungen treffen – Gibt es einen richtigen Zeitpunkt?
 categories:
 - Perspektive
 tags:
