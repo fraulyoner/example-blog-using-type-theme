@@ -82,11 +82,11 @@ Die IT-Branche bietet unglaublich vielfältige Möglichkeiten und ist
 perfekt für jemanden wie mich. Ich schloss die Ausbildung erfolgreich ab
 und wurde übernommen. Ich durchlief ganz unterschiedliche Stationen,
 saugte Inhalte aus den verschiedensten Wissensgebieten auf und übte mich
-in diversen Tätigkeiten. Seit sieben Jahren bin ich nun dem selben
-Betrieb zugehörig, wenn auch die letzten zwei Jahre davon in Elternzeit.
+in diversen Tätigkeiten. Seit 2011 bin ich nun im selben
+Betrieb, wenn auch zwei Jahre davon in Elternzeit.
 Ich habe das große Glück, in einem Unternehmen arbeiten zu dürfen, das
 Abwechslung und Weiterentwicklung ermöglicht, ohne zwangsläufig ständig
-den Job wechseln zu müssen.Trotz allem wurde mein selbstgemachter
+den Job wechseln zu müssen. Trotz allem wurde mein selbstgemachter
 Leidensdruck nicht geringer. Ich fühlte mich ruhelos, innerlich
 zerrissen und unfähig, mich tatsächlich dauerhaft auf eine Sache
 festlegen zu können.
