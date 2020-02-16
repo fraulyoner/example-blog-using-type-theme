@@ -63,7 +63,7 @@ trifft, die uns am Ende vielleicht nicht unbedingt gefallen.
 Ich möchte damit nicht ausdrücken, dass du kopflos losrennen und handeln sollst,
 ohne nachzudenken. Natürlich ist es sinnvoll, Eventualitäten, Konsequenzen,
 Chancen und Risiken abzuwägen. Doch sobald dieses Abwägen in einem sich ewig
-drehenden Gedankenkarussel mit kompletter Handlungsunfähigkeit resultiert, hilft
+drehenden Gedankenkarussell mit kompletter Handlungsunfähigkeit resultiert, hilft
 leider nur noch eins: Handeln.
 
 **Es ist ohnehin nur selten möglich, im Vorfeld beurteilen zu können, ob eine
